@@ -1,18 +1,18 @@
 # Hi There!:eyes:
 ---
-이름: 고성지</br>
-직업: 대학생</br>
+Name: SEONGJI KO</br>
+직업: Student</br>
 좋아하는 언어: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</br>
 
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoc06202%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![VISIT](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoc06202%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
                                                 
 <!---
 SeongjiGo/SeongjiGo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-### 백준 프로필 (https://boj.kr/soc06202)
+### BOJ Profile (https://boj.kr/soc06202)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soc06202)](https://solved.ac/soc06202)
 
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongjiGo)](https://github.com/anuraghazra/github-readme-stats)
 
-## 교육
+## Education
 - `[보조 강사] 2018년 동계방학, 교내 신입생 SW캠프 스태프(JAVA 조교) 활동`
 - `[보조 강사] 2019년 2학기, 교내 SW사업단 주최 교원 SW교육 보조강사활동`
 - `[멘토 활동] 2019년 1학기, 교내 SW사업단 주최 SW멘토링 멘토활동 (Python)`
@@ -34,14 +34,14 @@ You can click the Preview link to take a look at your changes.
 - `[멘토 활동] 2021년 2학기, 교내 코딩 학술 동아리 씨애랑 멘토활동 (Python)`
 - `[멘토 활동] 2021년 2학기, 교내 상생러닝 디딤돌 멘토링 멘토활동`
 
-## 경력
+## Activity
 - `[학생회] 2019년, 제 1대 빅데이터 학생회 '한결' 홍보부장`
 - `[학생회] 2021년 2학기, 제 3대 빅데이터 학생회 'PLUS' 복지부장`
 - `[운영진] 2019년, 교내 코딩 학술 동아리 씨애랑 기획국장`
 - `[운영진] 2019년 1학기, 교내 코딩 학술 동아리 씨애랑 라온팀장`
 - `[운영진] 2021년 2학기, 교내 코딩 학술 동아리 씨애랑 기획국장`
 
-## 교내 수상내역
+## Awards on campus
 - `[인기상 1위] 2018년 2학기, 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품`
 - `[은상 2위] 2019년 2학기 교내 SW사업단 주최 제 1회 SW 교육영상 공모전`
 - `[금상 1위] 2019년 2학기 교내 소프트웨어 융합대학 학술 콘테스트(서공제) 개인 부문`
