@@ -1,4 +1,4 @@
-# <center>Welcome!</center>
+# <center>아 깃허브 재밌다</center>
 
 ---
 ## Name: SEONGJI KO</br>
