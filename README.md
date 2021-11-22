@@ -45,6 +45,7 @@ You can click the Preview link to take a look at your changes.
 ## Awards on campus
 - `[인기상 1위] 2018년 2학기, 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품`
 - `[은상 2위] 2019년 2학기 교내 SW사업단 주최 제 1회 SW 교육영상 공모전`
+  - https://www.youtube.com/playlist?list=PL840mWpdPGmDbekDZ_EOdY55ps3qi1FTg
 - `[금상 1위] 2019년 2학기 교내 소프트웨어 융합대학 학술 콘테스트(서공제) 개인 부문`
 - `[동상 3위] 2019년 2학기 교내 소프트웨어 융합대학 학술 콘테스트(서공제) 팀 부문`
 - `[인기상 2위] 2019년 2학기 교내 코딩 학술 동아리 씨애랑 2019년도 SW전시회 출품`
