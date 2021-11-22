@@ -45,11 +45,16 @@ You can click the Preview link to take a look at your changes.
 ## Awards on campus
 - `[인기상 1위] 2018년 2학기, 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품`
 - `[은상 2위] 2019년 2학기 교내 SW사업단 주최 제 1회 SW 교육영상 공모전`
-  - https://www.youtube.com/playlist?list=PL840mWpdPGmDbekDZ_EOdY55ps3qi1FTg
-- `[금상 1위] 2019년 2학기 교내 소프트웨어 융합대학 학술 콘테스트(서공제) 개인 부문`
+  - 영상 제목: Hello Wolrd!! 부터 Up&Down 게임 까지!
+  - [유튜브 링크]https://www.youtube.com/playlist?list=PL840mWpdPGmDbekDZ_EOdY55ps3qi1FTg
+- `[대상 1위] 2019년 2학기 교내 소프트웨어 융합대학 학술 콘테스트(서공제) 개인 부문`
+  - [레포지토리 링크]https://github.com/SeongjiGo/Dodge-Ver1.1
 - `[동상 3위] 2019년 2학기 교내 소프트웨어 융합대학 학술 콘테스트(서공제) 팀 부문`
 - `[인기상 2위] 2019년 2학기 교내 코딩 학술 동아리 씨애랑 2019년도 SW전시회 출품`
+  - [레포지토리 링크]https://github.com/SeongjiGo/SpaceDodge
 - `[금상 1위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW 영상 제작 공모전 대회`
+  - 영상 제목: 백준알고리즘(boj.kr)을 파헤쳐 보자!
+  - [영상 보기]https://drive.google.com/file/d/1C1k34qt2m3YivRMmxLG0NcxNQqGGpriv/view?usp=sharing
 - `[금상 1위] 2021년 2학기, 교내 SW사업단 주최 SW week, 오픈소스 소프트웨어 활용 경진대회`
 - `[금상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW 창업 아이디어 경진대회`
 - `[은상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW기초대회 (파이썬 퀴즈 온 더 한림) 은상(2위)`
