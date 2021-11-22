@@ -57,4 +57,4 @@ You can click the Preview link to take a look at your changes.
   - [영상 보기]https://drive.google.com/file/d/1H8nFhMbOrxW9hFLLlo55LjiX5zPZM1jK/view?usp=sharing
 - `[금상 1위] 2021년 2학기, 교내 SW사업단 주최 SW week, 오픈소스 소프트웨어 활용 경진대회`
 - `[금상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW 창업 아이디어 경진대회`
-- `[은상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW기초대회 (파이썬 퀴즈 온 더 한림) 은상(2위)`
+- `[은상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW기초대회 (파이썬 퀴즈 온 더 한림)`
