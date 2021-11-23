@@ -12,7 +12,9 @@ Preferred Language: ![Python](https://img.shields.io/badge/python-3670A0?style=f
 SeongjiGo/SeongjiGo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+## 현재 개발중인 프로젝트
+- FingerNumber_classifier : 손가락 숫자를 인식하여 분류하는 딥러닝 모델 개발
+- Object_Blur-out : 특정 물체를 인식하여 모자이크하는 딥러닝 모델 개발
 ### BOJ Profile (https://boj.kr/soc06202)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soc06202)](https://solved.ac/soc06202)
