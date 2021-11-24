@@ -14,12 +14,12 @@ You can click the Preview link to take a look at your changes.
   - https://github.com/SeongjiGo/FingerNumber_classifier/
 - ~~Object_Blur-out : 특정 물체를 인식하여 모자이크하는 딥러닝 모델 개발~~ (개발 시작 XX, 곧 개발 )
   - https://github.com/SeongjiGo/Object_Blur-Out
- 
-## Preferred Language
 
+## Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</br>
 
+# PROFILE 🧐
 ### BOJ Profile (https://boj.kr/soc06202)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soc06202)](https://solved.ac/soc06202)
@@ -29,24 +29,24 @@ You can click the Preview link to take a look at your changes.
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)(https://www.facebook.com/profile.php?id=100007049760352)</br>
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000) `KakaoTalk_ID: soc06202`</br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongjiGo)](https://github.com/anuraghazra/github-readme-stats)
+<!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongjiGo)](https://github.com/anuraghazra/github-readme-stats)--->
 
 # :trophy: Awards on campus :trophy:
-- `[인기상 1위] 2018년 2학기, 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품`
-- `[은상 2위] 2019년 2학기 교내 SW사업단 주최 제 1회 SW 교육영상 공모전`
+- 🥇`[인기상 1위] 2018년 2학기, 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품`
+- 🥈`[은상 2위] 2019년 2학기 교내 SW사업단 주최 제 1회 SW 교육영상 공모전`
   - 영상 제목: Hello Wolrd!! 부터 Up&Down 게임 까지!
   - [유튜브 링크]https://www.youtube.com/playlist?list=PL840mWpdPGmDbekDZ_EOdY55ps3qi1FTg
-- `[대상 1위] 2019년 2학기 교내 소프트웨어 융합대학 학술 콘테스트(서공제) 개인 부문`
+- 🥇`[대상 1위] 2019년 2학기 교내 소프트웨어 융합대학 학술 콘테스트(서공제) 개인 부문`
   - [레포지토리 링크]https://github.com/SeongjiGo/Dodge-Ver1.1
-- `[동상 3위] 2019년 2학기 교내 소프트웨어 융합대학 학술 콘테스트(서공제) 팀 부문`
-- `[인기상 2위] 2019년 2학기 교내 코딩 학술 동아리 씨애랑 2019년도 SW전시회 출품`
+- 🥉`[동상 3위] 2019년 2학기 교내 소프트웨어 융합대학 학술 콘테스트(서공제) 팀 부문`
+- 🥈`[인기상 2위] 2019년 2학기 교내 코딩 학술 동아리 씨애랑 2019년도 SW전시회 출품`
   - [레포지토리 링크]https://github.com/SeongjiGo/SpaceDodge
-- `[금상 1위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW 영상 제작 공모전 대회`
+- 🥇`[금상 1위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW 영상 제작 공모전 대회`
   - 영상 제목: 백준알고리즘(boj.kr)을 파헤쳐 보자!
   - [영상 보기]https://drive.google.com/file/d/1H8nFhMbOrxW9hFLLlo55LjiX5zPZM1jK/view?usp=sharing
-- `[금상 1위] 2021년 2학기, 교내 SW사업단 주최 SW week, 오픈소스 소프트웨어 활용 경진대회`
-- `[금상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW 창업 아이디어 경진대회`
-- `[은상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW기초대회 (파이썬 퀴즈 온 더 한림)`
+- 🥇`[금상 1위] 2021년 2학기, 교내 SW사업단 주최 SW week, 오픈소스 소프트웨어 활용 경진대회`
+- 🥈`[금상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW 창업 아이디어 경진대회`
+- 🥈`[은상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW기초대회 (파이썬 퀴즈 온 더 한림)`
 
 
 # :bulb: Education :bulb:
