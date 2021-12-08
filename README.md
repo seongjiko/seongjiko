@@ -11,8 +11,7 @@ You can click the Preview link to take a look at your changes.
 # 현재 개발중인 프로젝트 📓
 - FingerNumber_classifier : 손가락 숫자를 인식하여 분류하는 딥러닝 모델 개발
   - https://github.com/SeongjiGo/FingerNumber_classifier/
-- ~~Object_Blur-out : 특정 물체를 인식하여 모자이크하는 딥러닝 모델 개발~~ (개발 시작 XX, 곧 개발 )
-  - https://github.com/SeongjiGo/Object_Blur-Out
+- noise_Reduction_with_autoencoder : 오토인코더를 이용한 이미지 노이즈 제거 모델 개발
 
 ## Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
