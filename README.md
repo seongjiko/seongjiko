@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - FingerNumber_classifier : 손가락 숫자를 인식하여 분류하는 딥러닝 모델 개발
   - https://github.com/SeongjiGo/FingerNumber_classifier/
 - noise_Reduction_with_autoencoder : 오토인코더를 이용한 이미지 노이즈 제거 모델 개발
-
+  - https://github.com/SeongjiGo/Noise_Reduction_with_Autoencoder
 ## Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</br>
