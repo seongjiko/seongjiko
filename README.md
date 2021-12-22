@@ -71,3 +71,5 @@ You can click the Preview link to take a look at your changes.
 - `[운영진] 2021년 2학기, 소프트웨어융합대학 학술 동아리 씨애랑 기획국장`
 - `[회장단] 2022년도 교내 소프트웨어융합대학 학술 동아리 씨애랑 회장`
 
+# 🏫 핵심 특강 🏫
+- [AI] 교내 LINK+사업단, [빅데이터/AI센터] 삼성 멀티캠퍼스 파이썬 DT 교육 전공 심화반 
