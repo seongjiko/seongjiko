@@ -18,6 +18,10 @@ You can click the Preview link to take a look at your changes.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</br>
 
 # PROFILE 🧐
+### Blog - 성지코딩(티스토리)
+- https://sjkoding.tistory.com/
+- 2021.12.31일 첫 글 개시 
+
 ### BOJ Profile (https://boj.kr/soc06202)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soc06202)](https://solved.ac/soc06202)
