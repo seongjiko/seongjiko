@@ -76,4 +76,4 @@ You can click the Preview link to take a look at your changes.
 # 🏫 핵심 특강 🏫
 - `[AI] 교내 LINK+사업단, [빅데이터/AI센터] 삼성 멀티캠퍼스 파이썬 DT 교육 심화, 전공반 `
   - 2021.12.27 ~ 2022.1.05 (total 56H)
-  - Numpy, Pandas, Matplotlib, MachineLearning, DeepLearning
+  - Numpy, Pandas, Matplotlib, Seaborn, MachineLearning, DeepLearning
