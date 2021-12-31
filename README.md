@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 # 현재 개발중인 프로젝트 📓
 - FingerNumber_classifier : 손가락 숫자를 인식하여 분류하는 딥러닝 모델 개발
-  - https://github.com/SeongjiGo/FingerNumber_classifier/
+  - https://github.com/seongjiko/FingerNumber_classifier/
 - noise_Reduction_with_autoencoder : 오토인코더를 이용한 이미지 노이즈 제거 모델 개발
-  - https://github.com/SeongjiGo/Noise_Reduction_with_Autoencoder
+  - https://github.com/seongjiko/Noise_Reduction_with_Autoencoder
 ## Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</br>
@@ -37,10 +37,10 @@ You can click the Preview link to take a look at your changes.
   - 영상 제목: Hello Wolrd!! 부터 Up&Down 게임 까지!
   - [유튜브 링크]https://www.youtube.com/playlist?list=PL840mWpdPGmDbekDZ_EOdY55ps3qi1FTg
 - 🥇`[대상 1위] 2019년 2학기 교내 소프트웨어 융합대학 학술 콘테스트(서공제) 개인 부문`
-  - [레포지토리 링크]https://github.com/SeongjiGo/Dodge-Ver1.1
+  - [레포지토리 링크]https://github.com/seongjiko/Dodge-Ver1.1
 - 🥉`[동상 3위] 2019년 2학기 교내 소프트웨어 융합대학 학술 콘테스트(서공제) 팀 부문`
 - 🥈`[인기상 2위] 2019년 2학기 교내 코딩 학술 동아리 씨애랑 2019년도 SW전시회 출품`
-  - [레포지토리 링크]https://github.com/SeongjiGo/SpaceDodge
+  - [레포지토리 링크]https://github.com/seongjiko/SpaceDodge
 - 🥇`[금상 1위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW 영상 제작 공모전 대회`
   - 영상 제목: 백준알고리즘(boj.kr)을 파헤쳐 보자!
   - [영상 보기]https://drive.google.com/file/d/1H8nFhMbOrxW9hFLLlo55LjiX5zPZM1jK/view?usp=sharing
