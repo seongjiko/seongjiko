@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 # 🤖 AI 경진대회 참가이력 🤖
 - `[Dacon] 펭귄 몸무게 예측 경진대회(데이콘 베이직 Basic | 정형 | RMSE)`
-  - 81위 / 684명 SCORE: 290.43097
+  - 18위 / 684명 SCORE: 275.71371
 
 # :bulb: Education :bulb:
 - `[보조 강사] 2018년 동계방학, 교내 신입생 SW캠프 스태프(JAVA 조교) 활동`
