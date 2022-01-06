@@ -48,6 +48,9 @@ You can click the Preview link to take a look at your changes.
 - 🥈`[금상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW 창업 아이디어 경진대회`
 - 🥈`[은상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW기초대회 (파이썬 퀴즈 온 더 한림)`
 
+# 🤖 AI 경진대회 참가이력 🤖
+- [Dacon] 펭귄 몸무게 예측 경진대회(데이콘 베이직 Basic | 정형 | RMSE)
+  - 81위 / 684명 SCORE: 290.43097
 
 # :bulb: Education :bulb:
 - `[보조 강사] 2018년 동계방학, 교내 신입생 SW캠프 스태프(JAVA 조교) 활동`
