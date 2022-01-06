@@ -9,10 +9,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 현재 개발중인 프로젝트 📓
-- FingerNumber_classifier : 손가락 숫자를 인식하여 분류하는 딥러닝 모델 개발
-  - https://github.com/seongjiko/FingerNumber_classifier/
-- noise_Reduction_with_autoencoder : 오토인코더를 이용한 이미지 노이즈 제거 모델 개발
-  - https://github.com/seongjiko/Noise_Reduction_with_Autoencoder
+- none
+
 ## Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</br>
