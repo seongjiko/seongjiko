@@ -8,8 +8,9 @@ SeongjiGo/SeongjiGo is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-# 현재 개발중인 프로젝트 📓
-- none
+# 현재 공부하고 있는 내용 📓
+- computer vision
+- Dacon 국내 인공지능 경진대회 사이트 참가 및 공부
 
 ## Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
