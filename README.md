@@ -62,6 +62,7 @@ You can click the Preview link to take a look at your changes.
 - `[멘토 활동] 2021년 2학기, 교내 코딩 학술 동아리 씨애랑 멘토활동 (Python)`
 - `[멘토 활동] 2021년 2학기, 교내 상생러닝 디딤돌 멘토링 멘토활동`
 - `[멘토 활동] 2021년 2학기, 교내 교과목 멘토링 멘토활동 (C++, R)`
+- `[멘토 활동] 2022년 동계방학, 교내 SW사업단 동계 전공 멘토링 멘토활동 (Python)`
 
 #  :mortar_board: Activity :mortar_board:
 - `[동아리] 2018년 교내 소프트웨어융합대학 학술 동아리 씨애랑 27기 회원 등록`
