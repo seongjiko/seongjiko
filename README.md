@@ -46,6 +46,7 @@ You can click the Preview link to take a look at your changes.
 - 🥇`[금상 1위] 2021년 2학기, 교내 SW사업단 주최 SW week, 오픈소스 소프트웨어 활용 경진대회`
 - 🥈`[금상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW 창업 아이디어 경진대회`
 - 🥈`[은상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW기초대회 (파이썬 퀴즈 온 더 한림)`
+- 🥇`[최우수상 1위] 2022년 동계, 교내 LINK+ 사업단 주최 커리어 포트폴리오 경진대회`
 
 # 🤖 AI 경진대회 참가이력 🤖
 - `[Dacon] 펭귄 몸무게 예측 경진대회(데이콘 베이직 Basic | 정형 | RMSE)`
