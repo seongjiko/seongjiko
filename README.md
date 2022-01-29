@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</br>
 
 ## 📝 Blog - 성지코딩(TISTORY) [https://sjkoding.tistory.com/]
 - 2021.12.31일 첫 글 개시 
