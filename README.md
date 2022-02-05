@@ -52,6 +52,8 @@ You can click the Preview link to take a look at your changes.
   - 최종 26위 / 725명, private score : 308.10401
 - `[Dacon] 영화 리뷰 감정분석 경진대회(데이콘 베이직 Basic | NLP | Accuracy)`
   - 최종 39위 / 605명, private score : 0.87166
+- `[Dacon] 집값 예측 경진대회(데이콘 베이직 Basic | 정형 | NMAE)`
+  - 최종 132위 / 679명, private score : 0.10518
 
 # :bulb: Education :bulb:
 - `[보조 강사] 2018년 동계방학, 교내 신입생 SW캠프 스태프(JAVA 조교) 활동`
