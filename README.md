@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 현재 공부하고 있는 내용 📓
-- computer vision
+- OpenCV를 이용한 
 - Dacon 국내 인공지능 경진대회 사이트 참가 및 공부
 
 ## Preferred Language
