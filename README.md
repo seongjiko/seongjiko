@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 - OpenCV를 이용한 영상처리
 - Dacon 국내 인공지능 경진대회 사이트 참가 및 공부
 - 22-1 SW 캡스톤 디자인 (딥러닝 & 영상처리 관련 주제, private 레포지토리에서 개발중)
-
+- [빅데이터·AI센터] 멀티캠퍼스 파이썬DT 데이터역량 집중교육 프로그램 특강 
+ 
 ## Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -84,10 +85,10 @@ You can click the Preview link to take a look at your changes.
 - `[연구활동] 2021년도 교내 MMC(Multimedia Computing Laboratory) 학부 연구생 등록`
   - 2021.12.23 ~
   - computer vision, deep learning
+
 # 🏫 핵심 특강 🏫
-- `[AI] 교내 LINK+사업단, [빅데이터/AI센터] 삼성 멀티캠퍼스 파이썬 DT 교육 심화, 전공반 `
+- `[빅데이터/AI센터] 삼성 멀티캠퍼스 파이썬 DT 교육 심화, 전공반 `
   - 2021.12.27 ~ 2022.1.05 (total 56H)
-  - Python Data Package
-    - Numpy, Pandas, Matplotlib, Seaborn
-  - MachineLearning
-  - DeepLearning
+
+- `	[빅데이터·AI센터] 삼성 멀티캠퍼스 파이썬DT 데이터역량 집중교육 프로그램`
+  - 2022.04.14 ~ 2022.04.19 (total 40H)
