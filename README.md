@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SEONGJI-KO&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Huh,%20GitHub%20is%20fun%20:\)%20Hi%20There!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SEONGJI-KO&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Let's,%20Get%20it!%20:\)%20Hi%20There!&descAlignY=51&descAlign=62)
 ---
 
 ---
