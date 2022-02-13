@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SEONGJI-KO&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Let's,%20Get%20it!%20:\)%20Hi%20There!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SEONGJI-KO&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Let's%20get%20it!%20:\)%20Hi%20There!&descAlignY=51&descAlign=62)
 ---
 
 ---
@@ -55,7 +55,8 @@ You can click the Preview link to take a look at your changes.
   - 최종 39위 / 605명, private score : 0.87166
 - `[Dacon] 집값 예측 경진대회(데이콘 베이직 Basic | 정형 | NMAE)`
   - 최종 132위 / 679명, private score : 0.10518
-
+- `[Dacon] 항공사 고객 만족도 예측 경진대회(데이콘 베이직 Basic | 정확도 | Accuracy)`
+  - (진행중) 현 15위 / 453명, private score : 0.938
 # :bulb: Education :bulb:
 - `[보조 강사] 2018년 동계방학, 교내 신입생 SW캠프 스태프(JAVA 조교) 활동`
 - `[보조 강사] 2019년 2학기, 교내 SW사업단 주최 교원 SW교육 보조강사활동`
