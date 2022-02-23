@@ -91,4 +91,4 @@ You can click the Preview link to take a look at your changes.
   - 2021.12.27 ~ 2022.1.05 (total 56H)
 
 - `	[빅데이터·AI센터] 삼성 멀티캠퍼스 파이썬DT 데이터역량 집중교육 프로그램`
-  - 2022.04.14 ~ 2022.04.19 (total 40H)
+  - 2022.02.14 ~ 2022.02.19 (total 40H)
