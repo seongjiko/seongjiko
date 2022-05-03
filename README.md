@@ -9,9 +9,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 현재 공부하고 있는 내용 📓
-- OpenCV를 이용한 영상처리
-- 22-1 SW 캡스톤 디자인 (딥러닝 & 영상처리 관련 주제, private 레포지토리에서 개발중)
-- MMC 연구실 의료프로젝트 연구 진행중
+- 22-1 SW 캡스톤 디자인 DeepSeat 프로젝트 개발 (openCV & DeepLearning)
+- MMC연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용 (~20240228)
  
 ## Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
