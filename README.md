@@ -9,8 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 현재 공부하고 있는 내용 📓
-- 22-1 SW 캡스톤 디자인 DeepSeat 프로젝트 개발 (openCV & DeepLearning)
-  - https://github.com/seongjiko/DeepSeat_project
 - MMC연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용 (~20240228)
 - 영상처리 프로그래밍 프로젝트: openCV를 이용한 영상처리 프로젝트 개발 (URColor)
  
@@ -48,7 +46,8 @@ You can click the Preview link to take a look at your changes.
 - 🥈`[금상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW 창업 아이디어 경진대회`
 - 🥈`[은상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW기초대회 (파이썬 퀴즈 온 더 한림)`
 - 🥇`[최우수상 1위] 2022년 동계, 교내 LINK+ 사업단 주최 커리어 포트폴리오 경진대회`
-
+- 🥈`[금상 2위] 2022년 1학기, 교내 SW사업단 주최 SW 캡스톤디자인 (DeepSeat 팀)
+  - https://github.com/seongjiko/DeepSeat_project
 # 🤖 AI 경진대회 참가이력 🤖
 - `[Dacon] 펭귄 몸무게 예측 경진대회(데이콘 베이직 Basic | 정형 | RMSE)`
   - 최종 26위 / 725명, private score : 308.10401
