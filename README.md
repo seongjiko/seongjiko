@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 # 현재 참가중인 대회 ✏
  - 과학기술정부통신부 주최 DACON SW중심대학 공동 AI경진대회 <예선> (2022.08.01 ~ 2022.08.26)
  - 과학기술정부통신부 주최 제 9회 대한민국 SW융합 해커톤 대회 (DeepSeat)
-  - [레포지토리 링크] https://github.com/seongjiko/DeepSeat_project
+ 		- [레포지토리 링크] https://github.com/seongjiko/DeepSeat_project
 ## Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
