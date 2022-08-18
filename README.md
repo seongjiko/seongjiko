@@ -9,11 +9,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 현재 공부하고 있는 내용 📓
-- MMC연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용 (~20240228)
-- CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구 ( 2022.08.01 ~ )
-- 과학기술정부통신부 주최 DACON SW중심대학 공동 AI경진대회 <예선> (2022.08.01 ~ 2022.08.26)
+- MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용
+- CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구
 
- 
+
+# 현재 참가중인 대회 ✏
+ - 과학기술정부통신부 주최 DACON SW중심대학 공동 AI경진대회 <예선> (2022.08.01 ~ 2022.08.26)
+ - 과학기술정부통신부 주최 제 9회 대한민국 SW융합 해커톤 대회 (DeepSeat)
+  - [레포지토리 링크] https://github.com/seongjiko/DeepSeat_project
 ## Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
