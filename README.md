@@ -65,6 +65,9 @@ You can click the Preview link to take a look at your changes.
 - `[Dacon] 항공사 고객 만족도 예측 경진대회(데이콘 베이직 Basic | 정확도 | Accuracy)`
   - 🥈최종 2위 / 615명, private score : 0.946
   - https://dacon.io/codeshare/4468
+- `[Dacon] SW중심대학 공동 AI 경진대회 ❮예선❯ (SW중심대학 | 예선 | 심리성향 | AUC)`₩
+  - 최종 9위 / 724명, private score : 0.90267
+  - https://dacon.io/competitions/official/235902/codeshare/6228?page=3&dtype=recent
 
 # :bulb: Education :bulb:
 - `[보조 강사] 2018년 동계방학, 교내 신입생 SW캠프 스태프(JAVA 조교) 활동`
