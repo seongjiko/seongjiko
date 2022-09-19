@@ -36,7 +36,9 @@ You can click the Preview link to take a look at your changes.
 <!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongjiGo)](https://github.com/anuraghazra/github-readme-stats)--->
 
 # :trophy: Awards on national convention :trophy:
-## - 🥇`[대상 1위] 제 9회 대한민국 SW해커톤 (과학기술정보통신부 장관상)`
+![image](https://user-images.githubusercontent.com/46768743/190939569-b2afd7c5-72e0-4913-9890-5fca3e013e28.png)
+
+## - 🥇`[대상 1위] 제 9회 대한민국 SW해커톤 (과학기술정보통신부 장관상) 22. 9. 19`
 
 # :trophy: Awards on campus :trophy:
 - 🥇`[인기상 1위] 2018년 2학기, 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품`
