@@ -37,6 +37,21 @@ You can click the Preview link to take a look at your changes.
 
 ## - 🥇`[대상] 제 9회 대한민국 SW해커톤 (과학기술정보통신부 장관상) 22. 9. 19`
    - [레포지토리 링크] https://github.com/seongjiko/DeepSeat_project
+   
+### 관련 기사
+`강원도 제 9회 대한민국 sw융합 해커톤 대회' 대상 수상 영예`
+- http://www.m-i.kr/news/articleView.html?idxno=951447
+
+`한림대 학생들, 대한민국 SW융합 해커톤 대회 대상`
+- http://www.dhnews.co.kr/news/articleView.html?idxno=207331
+
+`한림대 'DeepSeat'팀, 국내 최대 해커톤 대회서 대상 수상`
+- https://www.yna.co.kr/view/AKR20220920117700062?input=1195m
+
+`한림대 소프트웨어학부 학부생들, ‘제9회 대한민국 SW융합 해커톤 대회’ 대상 수상`
+- http://www.veritas-a.com/news/articleView.html?idxno=429628
+
+
 # :trophy: Awards on campus :trophy:
 - 🥇`[인기상 1위] 2018년 2학기, 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품`
 - 🥈`[은상 2위] 2019년 2학기 교내 SW사업단 주최 제 1회 SW 교육영상 공모전`
