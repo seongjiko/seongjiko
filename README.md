@@ -12,12 +12,9 @@ You can click the Preview link to take a look at your changes.
 - MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용
 - CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구
 
-
 # 현재 참가중인 대회 ✏
- - 과학기술정부통신부 주최 DACON SW중심대학 공동 AI경진대회 <예선> (2022.08.01 ~ 2022.08.26)
  - 과학기술정부통신부 주최 DACON SW중심대학 공동 AI경진대회 <본선> (2022.09.08 ~ 2022.11.07)
- - 과학기술정부통신부 주최 제 9회 대한민국 SW융합 해커톤 대회 (DeepSeat)
-   - [레포지토리 링크] https://github.com/seongjiko/DeepSeat_project
+
 ## Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -38,8 +35,8 @@ You can click the Preview link to take a look at your changes.
 # :trophy: Awards on national convention :trophy:
 ![image](https://user-images.githubusercontent.com/46768743/190939569-b2afd7c5-72e0-4913-9890-5fca3e013e28.png)
 
-## - 🥇`[대상 1위] 제 9회 대한민국 SW해커톤 (과학기술정보통신부 장관상) 22. 9. 19`
-
+## - 🥇`[대상] 제 9회 대한민국 SW해커톤 (과학기술정보통신부 장관상) 22. 9. 19`
+   - [레포지토리 링크] https://github.com/seongjiko/DeepSeat_project
 # :trophy: Awards on campus :trophy:
 - 🥇`[인기상 1위] 2018년 2학기, 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품`
 - 🥈`[은상 2위] 2019년 2학기 교내 SW사업단 주최 제 1회 SW 교육영상 공모전`
