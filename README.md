@@ -51,6 +51,8 @@ You can click the Preview link to take a look at your changes.
 `한림대 학생들, 대한민국 SW융합 해커톤 대회 대상` - e대학저널
 - http://www.dhnews.co.kr/news/articleView.html?idxno=207331
 
+`한림대 소프트웨어학부, ‘대한민국 SW융합 해커톤 대회’ 대상` - UNN
+- https://news.unn.net/news/articleView.html?idxno=534174
 
 # :trophy: Awards on campus :trophy:
 - 🥇`[인기상 1위] 2018년 2학기, 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품`
