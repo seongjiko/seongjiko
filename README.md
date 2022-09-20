@@ -39,17 +39,17 @@ You can click the Preview link to take a look at your changes.
    - [레포지토리 링크] https://github.com/seongjiko/DeepSeat_project
    
 ### 관련 기사
-`강원도 제 9회 대한민국 sw융합 해커톤 대회' 대상 수상 영예`
-- http://www.m-i.kr/news/articleView.html?idxno=951447
-
-`한림대 학생들, 대한민국 SW융합 해커톤 대회 대상`
-- http://www.dhnews.co.kr/news/articleView.html?idxno=207331
-
-`한림대 'DeepSeat'팀, 국내 최대 해커톤 대회서 대상 수상`
+`한림대 'DeepSeat'팀, 국내 최대 해커톤 대회서 대상 수상` - 연합뉴스
 - https://www.yna.co.kr/view/AKR20220920117700062?input=1195m
 
-`한림대 소프트웨어학부 학부생들, ‘제9회 대한민국 SW융합 해커톤 대회’ 대상 수상`
+`한림대 소프트웨어학부 학부생들, ‘제9회 대한민국 SW융합 해커톤 대회’ 대상 수상` - 베리타스 알파
 - http://www.veritas-a.com/news/articleView.html?idxno=429628
+
+`강원도 제 9회 대한민국 sw융합 해커톤 대회' 대상 수상 영예` - 매일일보
+- http://www.m-i.kr/news/articleView.html?idxno=951447
+
+`한림대 학생들, 대한민국 SW융합 해커톤 대회 대상` - e대학저널
+- http://www.dhnews.co.kr/news/articleView.html?idxno=207331
 
 
 # :trophy: Awards on campus :trophy:
