@@ -14,6 +14,10 @@ You can click the Preview link to take a look at your changes.
 
 # 현재 참가중인 대회 ✏
  - 과학기술정부통신부 주최 DACON SW중심대학 공동 AI경진대회 <본선> (2022.09.08 ~ 2022.11.07)
+  - private score 5위로 마무리. 발표평가 대기중.
+ 
+## 참가 예정 대회 ✏
+2022 국방 AI 경진대회(MAICON : Military AI CompetitiON) (일반인 부문)
 
 ## Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
