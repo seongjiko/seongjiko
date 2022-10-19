@@ -15,13 +15,13 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 # 현재 참가중인 대회 ✏
  과학기술정부통신부 주최 DACON SW중심대학 공동 AI경진대회 <본선> (2022.09.08 ~ 2022.11.07)
  
-## 참가 예정 대회 ✏
+# 참가 예정 대회 ✏
 2022 국방 AI 경진대회(MAICON : Military AI CompetitiON) (일반인 부문)
 
-## Preferred Language
+# Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 📝 Blog - 성지코딩(TISTORY) [https://sjkoding.tistory.com/]
+# 📝 Blog - 성지코딩(TISTORY) [https://sjkoding.tistory.com/]
 2021.12.31일 첫 글 개시 
 
 ### BOJ Profile (https://boj.kr/soc06202)
@@ -31,7 +31,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 
 <!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongjiGo)](https://github.com/anuraghazra/github-readme-stats)--->
 
-# :trophy: 교외 대회  :trophy:
+# :trophy: 교외 대회 수상 내역  :trophy:
 ![image](https://user-images.githubusercontent.com/46768743/190939569-b2afd7c5-72e0-4913-9890-5fca3e013e28.png)
 <img width="1556" alt="image" src="https://user-images.githubusercontent.com/46768743/196549111-0078650a-bb13-4ff4-92f4-835f140335dc.png">
 
