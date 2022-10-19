@@ -31,7 +31,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 
 <!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongjiGo)](https://github.com/anuraghazra/github-readme-stats)--->
 
-# :trophy: Awards on national convention :trophy:
+# :trophy: 교외 대회  :trophy:
 ![image](https://user-images.githubusercontent.com/46768743/190939569-b2afd7c5-72e0-4913-9890-5fca3e013e28.png)
 <img width="1556" alt="image" src="https://user-images.githubusercontent.com/46768743/196549111-0078650a-bb13-4ff4-92f4-835f140335dc.png">
 
@@ -54,7 +54,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 `한림대 학생들 해커톤 대상 수상` - 강원일보
 - https://n.news.naver.com/article/087/0000924269?sid=102
 
-# :trophy: Awards on campus :trophy:
+# :trophy: 한림대학교 교내 수상내역 :trophy:
 
 - 🥇`[인기상 1위] 2018년 2학기, 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품`
 - 🥈`[은상 2위] 2019년 2학기 교내 SW사업단 주최 제 1회 SW 교육영상 공모전`
@@ -93,7 +93,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
   - 최종 9위 / 724명, private score : 0.90267
   - https://dacon.io/competitions/official/235902/codeshare/6228?page=3&dtype=recent
 
-# :bulb: Education :bulb:
+# :bulb: 교내 교육 관련 활동내역 :bulb:
 - `[보조 강사] 2018년 동계방학, 교내 신입생 SW캠프 스태프(JAVA 조교) 활동`
 - `[보조 강사] 2019년 2학기, 교내 SW사업단 주최 교원 SW교육 보조강사활동`
 - `[멘토 활동] 2019년 1학기, 교내 SW사업단 주최 SW멘토링 멘토활동 (Python)`
@@ -106,7 +106,8 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 - `[멘토 활동] 2021년 2학기, 교내 교과목 멘토링 멘토활동 (C++, R)`
 - `[멘토 활동] 2022년 동계방학, 교내 SW사업단 동계 전공 멘토링 멘토활동 (Python)`
 - `[멘토 활동] 2022년 하계방학, 교내 SW사업단 하계 전공 멘토링 멘토활동 (Python)`
-#  :mortar_board: Activity :mortar_board:
+
+#  :mortar_board: 교내 활동내역 :mortar_board:
 - `[동아리] 2018년 교내 소프트웨어융합대학 학술 동아리 씨애랑 27기 회원 등록`
 - `[동아리] 2018년 교내 SW축구동아리 일레븐 회원 등록`
 - `[동아리] 2019년 교내 SW사업단, 학술 봉사 동아리 HSV 활동`
@@ -118,8 +119,6 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 - `[운영진] 2021년 2학기, 소프트웨어융합대학 학술 동아리 씨애랑 기획국장`
 - `[회장단] 2022년도 교내 소프트웨어융합대학 학술 동아리 씨애랑 회장`
 - `[연구활동] 2021년도 교내 MMC(Multimedia Computing Laboratory) 학부 연구생 등록`
-  - 2021.12.23 ~
-  - computer vision, deep learning
 
 # 🏫 핵심 특강 🏫
 - `[빅데이터/AI센터] 삼성 멀티캠퍼스 파이썬 DT 교육 심화, 전공반 `
