@@ -34,7 +34,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 ![image](https://user-images.githubusercontent.com/46768743/190939569-b2afd7c5-72e0-4913-9890-5fca3e013e28.png)
 <img width="1556" alt="image" src="https://user-images.githubusercontent.com/46768743/196549111-0078650a-bb13-4ff4-92f4-835f140335dc.png">
 
-## - 🥇`[대상] 제 9회 대한민국 SW해커톤 (과학기술정보통신부 장관상) 22. 9. 19`
+## - 🥇`[대상] 제 9회 대한민국 SW해커톤 (과학기술정보통신부 장관상)`
    - [레포지토리 링크] https://github.com/seongjiko/DeepSeat_project
    
 ### 관련 기사
