@@ -1,27 +1,34 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SEONGJI-KO&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Let's%20get%20it!%20:\)%20Hi%20There!&descAlignY=51&descAlign=62) </br>
-### 안녕하세요, AI개발자를 꿈꾸는 학부생 고성지입니다. 미래에 좋은 개발자가 되기 위해 다양한 경험을 하려고 노력중입니다! 아래에 제가 한 노력들을 나열해 보았습니다 :)
+### 안녕하세요, AI개발자를 꿈꾸는 학부생 고성지입니다. 미래에 좋은 개발자가 되기 위해 다양한 경험을 하려고 노력중입니다! </br>
+아래, 제가 꿈을 이루기 위한 활동들을 나열해보았습니다.
 <!---
 SeongjiGo/SeongjiGo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 # 현재 공부하고 있는 내용 📓
-MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용 </br>
-CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구
+`MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용` </br>
+동영상으로만 압박 횟수, 깊이, 자세등이 올바른지 판별하는 기술을 연구하고 있습니다.
+
+`CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구` </br>
+자율주행 관련 디지털 포렌식을 위하여 관련 논문 및 프로젝트를 공부하고 있습니다.
 
 # 현재 참가중인 대회 ✏
- 과학기술정부통신부 주최 DACON SW중심대학 공동 AI경진대회 <본선> (2022.09.08 ~ 2022.11.07)
- 
+`과학기술정부통신부 주최 DACON SW중심대학 공동 AI경진대회 <본선> (2022.09.08 ~ 2022.11.07)` </br>
+SW중심대학간의 대회입니다, 현재 수상후보에 올라 최종 코드검증 대기중입니다.
+
 # 참가 예정 대회 ✏
-2022 국방 AI 경진대회(MAICON : Military AI CompetitiON) (일반인 부문)
+`2022 국방 AI 경진대회(MAICON : Military AI CompetitiON) (일반인 부문)` </br>
+총상금 7,700만원이 걸린 대규모 대회를 참여합니다. 
 
 # Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+데이터 분석 및 AI개발을 주로 하고있어, Python언어를 주로 사용합니다.
 
 # 📝 Blog - 성지코딩(TISTORY) [https://sjkoding.tistory.com/]
-2021.12.31일 첫 글 개시 
+2021.12.31일 첫 글 개시, 현재는 블로그운영을 잠시 중단한 상태입니다.
 
 ### BOJ Profile (https://boj.kr/soc06202)
 [![Solved.ac
@@ -31,6 +38,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 <!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongjiGo)](https://github.com/anuraghazra/github-readme-stats)--->
 
 # :trophy: 교외 대회 수상 내역  :trophy:
+- 교외 전국단위의 대회에서의 수상 내역입니다.
 ![image](https://user-images.githubusercontent.com/46768743/190939569-b2afd7c5-72e0-4913-9890-5fca3e013e28.png)
 <img width="1556" alt="image" src="https://user-images.githubusercontent.com/46768743/196549111-0078650a-bb13-4ff4-92f4-835f140335dc.png">
 
@@ -54,7 +62,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 - https://n.news.naver.com/article/087/0000924269?sid=102
 
 # :trophy: 한림대학교 교내 수상내역 :trophy:
-
+- 한림대학교 교내 대회에서 수상한 내역입니다.
 - 🥇`[인기상 1위] 2018년 2학기, 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품`
 - 🥈`[은상 2위] 2019년 2학기 교내 SW사업단 주최 제 1회 SW 교육영상 공모전`
   - 영상 제목: Hello Wolrd!! 부터 Up&Down 게임 까지!
@@ -75,6 +83,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
   - [레포지토리 링크] https://github.com/seongjiko/DeepSeat_project
   
 # 🤖 AI 경진대회 참가이력 🤖
+- AI경진대회 참가 이력입니다. Basic등의 기초 대회를 포함합니다.
 - `[Dacon] 펭귄 몸무게 예측 경진대회(데이콘 베이직 Basic | 정형 | RMSE)`
   - 최종 26위 / 725명, private score : 308.10401
   - https://dacon.io/codeshare/4123
@@ -93,6 +102,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
   - https://dacon.io/competitions/official/235902/codeshare/6228?page=3&dtype=recent
 
 # :bulb: 교내 교육 관련 활동내역 :bulb:
+- 멘토링의 멘토와 보조강사등 교육 관련 활동입니다.
 - `[보조 강사] 2018년 동계방학, 교내 신입생 SW캠프 스태프(JAVA 조교) 활동`
 - `[보조 강사] 2019년 2학기, 교내 SW사업단 주최 교원 SW교육 보조강사활동`
 - `[멘토 활동] 2019년 1학기, 교내 SW사업단 주최 SW멘토링 멘토활동 (Python)`
@@ -107,6 +117,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 - `[멘토 활동] 2022년 하계방학, 교내 SW사업단 하계 전공 멘토링 멘토활동 (Python)`
 
 #  :mortar_board: 교내 활동내역 :mortar_board:
+- 동아리, 학생회, 연구생 등의 교내 활동 내역들입니다.
 - `[동아리] 2018년 교내 소프트웨어융합대학 학술 동아리 씨애랑 27기 회원 등록`
 - `[동아리] 2018년 교내 SW축구동아리 일레븐 회원 등록`
 - `[동아리] 2019년 교내 SW사업단, 학술 봉사 동아리 HSV 활동`
@@ -120,6 +131,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 - `[연구활동] 2021년도 교내 MMC(Multimedia Computing Laboratory) 학부 연구생 등록`
 
 # 🏫 핵심 특강 🏫
+- 제게 큰 도움이 되었던 특강의 목록들입니다.
 - `[빅데이터/AI센터] 삼성 멀티캠퍼스 파이썬 DT 교육 심화, 전공반 `
   - 2021.12.27 ~ 2022.1.05 (total 56H)
 
