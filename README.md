@@ -44,22 +44,7 @@ SW중심대학간의 대회입니다, 현재 수상후보에 올라 최종 코�
 
 ## - 🥇`[대상] 제 9회 대한민국 SW해커톤 (과학기술정보통신부 장관상)`
    - [레포지토리 링크] https://github.com/seongjiko/DeepSeat_project
-   
-### 관련 기사
-`한림대 'DeepSeat'팀, 국내 최대 해커톤 대회서 대상 수상` - 연합뉴스
-- https://www.yna.co.kr/view/AKR20220920117700062?input=1195m
-
-`한림대 학생들, 대한민국 SW융합 해커톤 대회 대상` - e대학저널
-- http://www.dhnews.co.kr/news/articleView.html?idxno=207331
-
-`강원도, '제9회 대한민국 SW융합 해커톤 대회' 대상 수상 영예` - 시사줌뉴수
-- http://www.sisazoom.co.kr/21681
-
-`대한민국 SW융합 해커톤 대회 한림대 DeepSeat 대상`- 강원일보
-- https://n.news.naver.com/article/087/0000924265?sid=100
-
-`한림대 학생들 해커톤 대상 수상` - 강원일보
-- https://n.news.naver.com/article/087/0000924269?sid=102
+- `[장려상] ACK 2022 학부생논문경진대회`
 
 # :trophy: 한림대학교 교내 수상내역 :trophy:
 - 한림대학교 교내 대회에서 수상한 내역입니다.
