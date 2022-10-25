@@ -40,11 +40,13 @@ SW중심대학간의 대회입니다, 현재 수상후보에 올라 최종 코�
 # :trophy: 교외 대회 수상 내역  :trophy:
 - 교외 전국단위의 대회에서의 수상 내역입니다.
 ![image](https://user-images.githubusercontent.com/46768743/190939569-b2afd7c5-72e0-4913-9890-5fca3e013e28.png)
-<img width="1556" alt="image" src="https://user-images.githubusercontent.com/46768743/196549111-0078650a-bb13-4ff4-92f4-835f140335dc.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/46768743/196549111-0078650a-bb13-4ff4-92f4-835f140335dc.png">
 
-## - 🥇`[대상] 제 9회 대한민국 SW해커톤 (과학기술정보통신부 장관상)`
+- 🥇`[대상] 제 9회 대한민국 SW해커톤 (과학기술정보통신부 장관상)`
    - [레포지토리 링크] https://github.com/seongjiko/DeepSeat_project
-- `[장려상] ACK 2022 학부생논문경진대회`
+- 👍`[장려상] ACK 2022 학부생 논문 경진 대회`
+   - [레포지토리 링크] https://github.com/seongjiko/DeepSeat_project
+
 
 # :trophy: 한림대학교 교내 수상내역 :trophy:
 - 한림대학교 교내 대회에서 수상한 내역입니다.
