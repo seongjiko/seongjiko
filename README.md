@@ -46,6 +46,7 @@ SW중심대학간의 대회입니다, 현재 수상후보에 올라 최종 코�
       <img width="1000" alt="image" src="https://user-images.githubusercontent.com/46768743/196549111-0078650a-bb13-4ff4-92f4-835f140335dc.png">
 
 - 👍`[장려상] ACK 2022 학부생 논문 경진 대회`
+   - "신뢰할 수 있는 딥러닝 기반 단일 캠 좌석현황 실시간 탐지 솔루션"
    - [레포지토리 링크] https://github.com/seongjiko/DeepSeat_project
 
 
