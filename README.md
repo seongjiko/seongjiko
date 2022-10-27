@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SEONGJI-KO&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Let's%20get%20it!%20:\)%20Hi%20There!&descAlignY=51&descAlign=62) </br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SEONGJI-KO&fontSize=90&animation=fadeIn&fontAlignY=38&animation=twinkling&desc=Let's%20get%20it!%20:\)%20Hi%20There!&descAlignY=51&descAlign=62) </br>
 ### 안녕하세요, AI개발자를 꿈꾸는 학부생 고성지입니다. 미래에 좋은 개발자가 되기 위해 다양한 경험을 하려고 노력중입니다! </br>
 아래, 제가 꿈을 이루기 위한 활동들을 나열해보았습니다.
 <!---
