@@ -48,7 +48,9 @@ SW중심대학간의 대회입니다, 현재 수상후보에 올라 최종 코�
 - 👍`[장려상] ACK 2022 학부생 논문 경진 대회`
    - "신뢰할 수 있는 딥러닝 기반 단일 캠 좌석현황 실시간 탐지 솔루션"
    - [레포지토리 링크] https://github.com/seongjiko/DeepSeat_project
-
+   
+- 👍`[장려상, 최종 9위] SW중심대학 공동 AI 경진대회 <본선>`
+   - [레포지토리 링크] https://github.com/seongjiko/customocr
 
 # :trophy: 한림대학교 교내 수상내역 :trophy:
 - 한림대학교 교내 대회에서 수상한 내역입니다.
