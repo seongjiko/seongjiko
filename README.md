@@ -15,13 +15,6 @@ You can click the Preview link to take a look at your changes.
 `CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구` </br>
 자율주행 관련 디지털 포렌식을 위하여 관련 논문 및 프로젝트를 공부하고 있습니다.
 
-# 현재 참가중인 대회 ✏
-`과학기술정부통신부 주최 DACON SW중심대학 공동 AI경진대회 <본선> (2022.09.08 ~ 2022.11.07)` </br>
-SW중심대학간의 대회입니다, 현재 수상후보에 올라 최종 코드검증 대기중입니다.
-
-# 참가 예정 대회 ✏
-`2022 국방 AI 경진대회(MAICON : Military AI CompetitiON) (일반인 부문)` </br>
-총상금 7,700만원이 걸린 대규모 대회를 참여합니다. 
 
 # Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
