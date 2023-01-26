@@ -10,9 +10,10 @@ You can click the Preview link to take a look at your changes.
 
 # 현재 공부하고 있는 내용 📓
 `MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용` </br>
+- MICCAI 2023 Conference Paper 준비중
 `MMC 연구실: Diffusion model detecting 기법 연구`</br>
 `CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구` </br>
-`[Dacon] 포디블록 구조 추출 AI 경진대회 참가 중`</br>
+
 
 
 
