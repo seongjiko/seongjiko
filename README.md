@@ -1,21 +1,14 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SEONGJI-KO🐠&fontSize=90&animation=twinkling&fontAlignY=38&desc=Let's%20get%20it!%20:\)%20Hi%20There!&descAlignY=51&descAlign=62) </br>
-### 안녕하세요, 학부생 고성지입니다. 미래에 좋은 AI개발자가 되기 위해 다양한 경험을 하려고 노력중입니다! </br>
-아래, 제가 꿈을 이루기 위한 활동들을 나열해보았습니다.
-<!---
-SeongjiGo/SeongjiGo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
 # 현재 공부하고 있는 내용 📓
 `MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용` </br>
-- MICCAI 2023 Conference Paper 준비중
+- MICCAI 2023 Conference Paper 작성중
+
 `MMC 연구실: Diffusion model detecting 기법 연구`</br>
 `CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구` </br>
-
-
-
 
 # Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
