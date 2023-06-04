@@ -4,23 +4,13 @@
 
 
 # 현재 공부하고 있는 내용 📓
+현재 교내 스마트컴퓨팅 연구소에서 보조연구원으로 활동중 </br>
 `MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용` </br>
-- MICCAI 2023 Conference Paper 작성중
-
-`MMC 연구실: Diffusion model detecting 기법 연구`</br>
 `CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구` </br>
 
 # Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 데이터 분석 및 AI개발을 주로 하고있어, Python언어를 주로 사용합니다.
-
-# 📝 Blog - 성지코딩(TISTORY) [https://sjkoding.tistory.com/]
-2021.12.31일 첫 글 개시, 현재는 블로그운영을 잠시 중단한 상태입니다.
-
-### BOJ Profile (https://boj.kr/soc06202)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soc06202)](https://solved.ac/soc06202)
-</div>
 
 <!---[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongjiGo)](https://github.com/anuraghazra/github-readme-stats)--->
 
@@ -67,21 +57,27 @@
 # 🤖 AI 경진대회 참가이력 🤖
 - AI경진대회 참가 이력입니다. Basic등의 기초 대회를 포함합니다.
 - `[Dacon] 펭귄 몸무게 예측 경진대회(데이콘 베이직 Basic | 정형 | RMSE)`
-  - 최종 26위 / 725명, private score : 308.10401
+  - 최종 26위 / 725명
   - https://dacon.io/codeshare/4123
 - `[Dacon] 영화 리뷰 감정분석 경진대회(데이콘 베이직 Basic | NLP | Accuracy)`
-  - 최종 39위 / 605명, private score : 0.87166
+  - 최종 39위 / 605명
   - https://dacon.io/codeshare/4228
 - `[Dacon] 집값 예측 경진대회(데이콘 베이직 Basic | 정형 | NMAE)`
-  - 최종 132위 / 679명, private score : 0.10518
+  - 최종 132위 / 679명
 - `[Dacon] 항공사 고객 만족도 예측 경진대회(데이콘 베이직 Basic | 정확도 | Accuracy)`
-  - 🥈최종 2위 / 615명, private score : 0.946
+  - 🥈최종 2위 / 615명
   - https://dacon.io/codeshare/4468
 - `[Dacon] 자율주행 센서의 안테나 성능 예측 AI경진대회 (LG | 정형 | 회귀 | 자율주행 | NRMSE)`
-  - 최종 224위 / 1,796명, private score : 1.96789
+  - 최종 224위 / 1,796명
 - `[Dacon] SW중심대학 공동 AI 경진대회 ❮예선❯ (SW중심대학 | 예선 | 심리성향 | AUC)`
-  - 최종 9위 / 724명, private score : 0.90267
+  - 최종 9위 / 724명
   - https://dacon.io/competitions/official/235902/codeshare/6228?page=3&dtype=recent
+- `[Dacon] 포디블록 구조 추출 AI 경진대회 (알고리즘 | Vision | 분류 | Accuracy)`
+  - 최종 85위 / 928명
+- `[Dacon] 도배 하자 유형 분류 AI 경진대회 (알고리즘 | 비전 | 분류 | MLOps | Weighted F1 Score)`
+  - 최종 41위 / 1,806명
+ 
+
 
 # :bulb: 교내 교육 관련 활동내역 :bulb:
 - 멘토링의 멘토와 보조강사등 교육 관련 활동입니다.
