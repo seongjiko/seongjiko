@@ -4,9 +4,10 @@
 
 
 # 현재 공부하고 있는 내용 📓
-현재 교내 스마트컴퓨팅 연구소에서 보조연구원으로 활동중 </br>
 `MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용` </br>
 `CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구` </br>
+`ACMMM 2023 paper reviewer`
+`ICIP 2023 paper reviewr`
 
 # Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -113,6 +114,7 @@
 - `[빅데이터/AI센터] 삼성 멀티캠퍼스 파이썬 DT 교육 심화, 전공반 `
   - 2021.12.27 ~ 2022.1.05 (total 56H)
 
-- `	[빅데이터·AI센터] 삼성 멀티캠퍼스 파이썬DT 데이터역량 집중교육 프로그램`
+- `[빅데이터·AI센터] 삼성 멀티캠퍼스 파이썬DT 데이터역량 집중교육 프로그램`
   - 2022.02.14 ~ 2022.02.19 (total 40H)
  
+- `[K-Digital] KT AIVLE AI/개발자코스 교육 (6개월) 예정`
