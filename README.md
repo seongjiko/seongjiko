@@ -5,9 +5,8 @@
 
 # 현재 공부하고 있는 내용 📓
 `MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용` </br>
+[preview](https://drive.google.com/file/d/1Pw3Se-1TatTw_hXY40cR_s-QwAe1jGAG/view?usp=sharing)
 `CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구` </br>
-`ACMMM 2023 paper reviewer`
-`ICIP 2023 paper reviewr`
 
 # Preferred Language
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
