@@ -1,17 +1,19 @@
 <div align="center"> 
    
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,15,18,19,20,25,27,28&height=230&section=header&text=SEONGJI-KO&animation=scaleIn&fontSize=90&fontAlignY=38&desc=Thank%20you%20for%20visiting%20my%20GitHub.&descAlignY=57&descAlign=62) </br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=40&duration=3000&pause=1000&color=FFFFFF&background=102B6A&center=true&vCenter=true&repeat=false&width=435&lines=-+About+Me+-)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&duration=3000&pause=1000&color=102b6a&background=FF5F0000&center=true&vCenter=true&width=435&lines=Majoring+about+AI+vision;Multiple+AI+Competitions+Participation+History;Multiple+AI+Paper+Submission+Experience;Multiple+AI-related+awards+experiences)](https://git.io/typing-svg)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjiko&count_bg=%23B9D7ED&title_bg=%235C6BC0&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# 홈페이지 리뉴얼중입니다.
 #### :link: E-mail & Blog:link:
 [![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakaotalk&logoColor=white&link=mailto:soc06202@kakao.com)](mailto:soc06202@kakao.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:soc06202@naver.com)](mailto:soc06202@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soc06202@gmail.com)](mailto:soc06202@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=mailto:soc06202@gmail.com)](mailto:soc06202@gmail.com)
 
-## Skill
+#### ✒️Stack
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white) <br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
@@ -24,11 +26,12 @@
 MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용 </br>
 CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구 </br>
 
-# 🥇상세내용 더보기🥈
+# 상세내용 더보기 :door:
 <details>
-<summary> 수상 실적, 활동 등 </summary>
+<summary> 눌러주세요! :eyes:</summary>
 <div markdown="1">
-
+하이퍼링크는 관련내용을 더욱 자세히 볼 수 있는 링크입니다.
+   
 ## :trophy: 교외 대회 수상내역  :trophy:
 <details>
 <summary> 교외 대회 수상내역 보기 </summary>
