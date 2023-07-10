@@ -24,9 +24,9 @@
 MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용 </br>
 CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구 </br>
 
-# 🥇수상 실적 및 활동 내역🥈
+# 🥇상세내용 더보기🥈
 <details>
-<summary> 자세히 보기 </summary>
+<summary> 수상 실적, 활동 등 </summary>
 <div markdown="1">
 
 ## :trophy: 교외 대회 수상내역  :trophy:
@@ -36,7 +36,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 
 | Award 	| Date                         	          | Task                  	| 
 |-------------	|---------------------------------   |-----------------------	|
-| 🏆 과학기술정보통신부 장관상(대상)      	| 6학기    | [제 9회 대한민국 SW융합 해커톤 대회)](https://github.com/seongjiko/DeepSeat_project)    |
+| 🏆 과학기술정보통신부 장관상(대상)      	| 6학기    | [제 9회 대한민국 SW융합 해커톤 대회](https://github.com/seongjiko/DeepSeat_project)    |
 | 👍 장려상   |   6학기   |   [ACK 2022 학부생 논문 경진 대회](https://kiss.kstudy.com/Detail/Ar?key=3988536)
 | 👍 우수논문상   |    6학기    |    2022 정보보호학회 동계학술대회(CISC-W’22)  |
 | 👍 SW중심대학협의회장상(장려상)   |   6학기   |   [SW중심대학 공동 AI 경진대회 <본선>](https://github.com/seongjiko/customocr)   |
