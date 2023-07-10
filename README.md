@@ -11,11 +11,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soc06202@gmail.com)](mailto:soc06202@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=mailto:soc06202@gmail.com)](mailto:soc06202@gmail.com)
 
-
-## 📓 Project in progress 📓
-MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용 </br>
-CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구 </br>
-
 ## Skill
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white) <br>
@@ -25,7 +20,11 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
 
-## 수상 실적 및 활동 내역 
+## 📓 Project in progress 📓
+MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용 </br>
+CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구 </br>
+
+# 🥇수상 실적 및 활동 내역🥈
 <details>
 <summary> 자세히 보기 </summary>
 <div markdown="1">
