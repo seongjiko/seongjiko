@@ -20,6 +20,8 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjiko&count_bg=%23B9D7ED&title_bg=%235C6BC0&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## 📓 Project in progress 📓
 MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용 </br>
 CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구 </br>
@@ -151,4 +153,4 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 </div>
 </details>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjiko&count_bg=%23B9D7ED&title_bg=%235C6BC0&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
