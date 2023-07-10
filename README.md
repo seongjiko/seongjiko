@@ -11,14 +11,19 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soc06202@gmail.com)](mailto:soc06202@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=mailto:soc06202@gmail.com)](mailto:soc06202@gmail.com)
 
-#### ✒️Stack
+#### 🖥️Stacks
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white) <br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) <br>
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
+![unity](https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white) <br>
 ![opencv](https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white) <br>
+![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white)
+![visualstudiocode](https://img.shields.io/badge/VSC-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![jupyter](https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![anaconda](https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjiko&count_bg=%23B9D7ED&title_bg=%235C6BC0&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
