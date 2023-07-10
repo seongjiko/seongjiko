@@ -32,66 +32,35 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 <summary> 교외 대회 수상내역 보기 </summary>
 <div markdown="1">
 
-
-**🥇[대상] 제 9회 대한민국 SW해커톤 (과학기술정보통신부 장관상)**  
-<details>
-<summary> 자세히 보기 </summary>
-<div markdown="1">
-
-[레포지토리 링크] https://github.com/seongjiko/DeepSeat_project  
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/46768743/190939569-b2afd7c5-72e0-4913-9890-5fca3e013e28.png"> <br>
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/46768743/196549111-0078650a-bb13-4ff4-92f4-835f140335dc.png">
-
-</div>
-</details>
-
-**👍[장려상] ACK 2022 학부생 논문 경진 대회** 
-<details>
-<summary> 자세히 보기 </summary>
-<div markdown="1">
-   
-논문 명: 신뢰할 수 있는 딥러닝 기반 단일 캠 좌석현황 실시간 탐지 솔루션
-[레포지토리 링크] https://github.com/seongjiko/DeepSeat_project  
-   
-</div>
-</details>
- 
-👍`[장려상, 최종 9위] SW중심대학 공동 AI 경진대회 <본선>`  
-[레포지토리 링크] https://github.com/seongjiko/customocr  
-
-👍`[우수논문상(학부생)]  2022 정보보호학회 동계학술대회(CISC-W’22)`  
-CAN 프레임 간격 기반 침입 탐지 방법론  
-
-</div>
-</details>
+| Award 	| Date                         	          | Task                  	| 
+|-------------	|---------------------------------   |-----------------------	|
+| 🏆 과학기술정보통신부 장관상(대상)      	| 6학기    | [제 9회 대한민국 SW해커톤](https://github.com/seongjiko/DeepSeat_project)    |
+| 👍 장려상   |   6학기   |   [ACK 2022 학부생 논문 경진 대회](https://kiss.kstudy.com/Detail/Ar?key=3988536)
+| 👍 우수논문상   |    6학기    |    2022 정보보호학회 동계학술대회(CISC-W’22) - CAN 프레임 간격 기반 침입 탐지 방법론 |
+| 👍 SW중심대학협의회장상(장려상)   |   6학기   |   [SW중심대학 공동 AI 경진대회 <본선>](https://github.com/seongjiko/customocr)   |
 
 
 ## :trophy: 한림대학교 교내 수상내역 :trophy:
 <details>
 <summary> 한림대학교 교내 수상내역 보기 </summary>
 <div markdown="1">  
-
-```python
-🥇[인기상 1위] 2018년 2학기, 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품
-🥈[은상 2위] 2019년 2학기 교내 SW사업단 주최 제 1회 SW 교육영상 공모전
-영상 제목: Hello Wolrd!! 부터 Up&Down 게임 까지!
-[유튜브 링크]https://www.youtube.com/playlist?list=PL840mWpdPGmDbekDZ_EOdY55ps3qi1FTg
-🥇[대상 1위] 2019년 2학기 교내 소프트웨어 융합대학 학술 콘테스트(서공제) 개인 부문
-[레포지토리 링크]https://github.com/seongjiko/Dodge-Ver1.1
-🥉[동상 3위] 2019년 2학기 교내 소프트웨어 융합대학 학술 콘테스트(서공제) 팀 부문
-🥈[인기상 2위] 2019년 2학기 교내 코딩 학술 동아리 씨애랑 2019년도 SW전시회 출품
-[레포지토리 링크]https://github.com/seongjiko/SpaceDodge
-🥇[금상 1위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW 영상 제작 공모전 대회
-영상 제목: 백준알고리즘(boj.kr)을 파헤쳐 보자!
-[영상 보기]https://drive.google.com/file/d/1H8nFhMbOrxW9hFLLlo55LjiX5zPZM1jK/view?usp=sharing
-🥇[금상 1위] 2021년 2학기, 교내 SW사업단 주최 SW week, 오픈소스 소프트웨어 활용 경진대회
-🥈[금상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW 창업 아이디어 경진대회
-🥈[은상 2위] 2021년 2학기, 교내 SW사업단 주최 SW week, SW기초대회 (파이썬 퀴즈 온 더 한림)
-🥇[최우수상 1위] 2022년 동계, 교내 LINK+ 사업단 주최 커리어 포트폴리오 경진대회
-🥈[금상 2위] 2022년 1학기, 교내 SW사업단 주최 SW 캡스톤디자인 (DeepSeat 팀)
-[레포지토리 링크] https://github.com/seongjiko/DeepSeat_project
-🥉[동상 3위] 2022년 교내 SW사업단 주최 Gitgub 포트폴리오 경진대회
-```
+   
+   
+| Award 	| Date                         	          | Task                  	| 
+|-------------	|---------------------------------   |-----------------------	|
+| 🥇인기상 1위      	| 2학기    | 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품    |
+| 🥈은상 2위      	| 4학기    | [교내 SW사업단 주최 제 1회 SW 교육영상 공모전](https://www.youtube.com/playlist?list=PL840mWpdPGmDbekDZ_EOdY55ps3qi1FTg)    |
+| 🥇대상 1위      	| 4학기    | [교내 소프트웨어 융합대학 학술 콘테스트(서공제) 개인 부문](https://github.com/seongjiko/Dodge-Ver1.1)   |
+| 🥉동상 3위     	| 4학기    | 교내 소프트웨어 융합대학 학술 콘테스트(서공제) 팀 부문   |
+| 🥉인기상 2위     	| 4학기    | [교내 코딩 학술 동아리 씨애랑 2019년도 SW전시회 출품](https://github.com/seongjiko/SpaceDodge)     |
+| 🥉금상 1위     	   | 5학기    | [교내 SW사업단 주최 SW week, SW 영상 제작 공모전 대회](https://drive.google.com/file/d/1H8nFhMbOrxW9hFLLlo55LjiX5zPZM1jK/view?usp=sharing)     |
+| 🥇금상 1위         | 5학기    | 교내 SW사업단 주최 SW week, 오픈소스 소프트웨어 활용 경진대회 |
+| 🥈금상 2위         | 5학기    | 교내 SW사업단 주최 SW week, SW 창업 아이디어 경진대회  |
+| 🥈은상 2위         | 5학기    | 교내 SW사업단 주최 SW week, SW기초대회 (파이썬 퀴즈 온 더 한림)  |
+| 🥇최우수상 1위         | 5학기    | 교내 LINK+ 사업단 주최 커리어 포트폴리오 경진대회  |
+| 🥇최우수상 1위         | 5학기    | 교내 LINK+ 사업단 주최 커리어 포트폴리오 경진대회  |
+| 🥈금상 2위         | 6학기   | [2022년 1학기, 교내 SW사업단 주최 SW 캡스톤디자인 (DeepSeat)](https://github.com/seongjiko/DeepSeat_project) |
+| 🥉동상 3위         | 7학기   | 2022년 교내 SW사업단 주최 Gitgub 포트폴리오 경진대회 |
 
 </div>
 </details>
@@ -103,14 +72,14 @@ CAN 프레임 간격 기반 침입 탐지 방법론
 
 | Competition 	| Subject                         	                | Task                  	| Rank / participants           | Percentile 	| Date  	|
 |-------------	|---------------------------------	                |-----------------------	|---------------	            |------------	|-------	|
-| Dacon       	| 2023 SW중심대학 공동 AI 경진대회 	                | Vision (Segmentation)   	| ? / 975명 	                | -             | 진행중 	|
+| Dacon       	| 2023 SW중심대학 공동 AI 경진대회	                | Vision (Segmentation)   	| ? / 975명 	                | -             | 진행중 	|
 | Dacon       	| 도배 하자 유형 분류 AI 경진대회 	                | Vision (Classifier)   	| 41등 / 1,025팀 	            | 상위 4%    	| 23/05 	|
 | Dacon       	| 포디블록 구조 추출 AI 경진대회  	                | Vision (Segmentation) 	| 85등 / 461팀     	            | 상위 19%     	| 23/01     |
-| Dacon        	| 2022 SW중심대학 공동 AI 경진대회 (수상)        	| Vision (OCR)             	| 5등 / 77팀             	    | 상위 7%      	| 22/10     |
+| Dacon        	| [2022 SW중심대학 공동 AI 경진대회](https://github.com/seongjiko/customocr) (수상)        	| Vision (OCR)             	| 5등 / 77팀             	    | 상위 7%      	| 22/10     |
 | Dacon        	| 자율주행 센서의 안테나 성능 예측 AI경진대회        | Tabular             	    | 226등 / 975팀             	| 상위 23%      | 22/08     |
-| Dacon(basic)  | 항공사 고객 만족도 예측 경진대회        	        | Tabular             	    | 2등 / 615명             	    | 상위 1%      	| 22/02     |
+| Dacon(basic)  | [항공사 고객 만족도 예측 경진대회](https://sjkoding.tistory.com/14)        	        | Tabular             	    | 2등 / 615명             	    | 상위 1%      	| 22/02     |
 | Dacon(basic)  | 영화 리뷰 감정분석 경진대회        	            | NLP             	        | 39등 / 605명             	    | 상위 6%      	| -      	|
-| Dacon(basic)  | 펭귄 몸무게 예측 경진대회        	                | Tabular             	    | 26등 / 725명             	    | 상위 3%      	| 22/01     |
+| Dacon(basic)  | [펭귄 몸무게 예측 경진대회](https://sjkoding.tistory.com/7)        	                | Tabular             	    | 26등 / 725명             	    | 상위 3%      	| 22/01     |
  
 </div>
 </details>
