@@ -1,6 +1,11 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SEONGJI-KO🐠&fontSize=90&animation=twinkling&fontAlignY=38&desc=Let's%20get%20it!%20:\)%20Hi%20There!&descAlignY=51&descAlign=62) </br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjiko&count_bg=%23B9D7ED&title_bg=%235C6BC0&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
+# 홈페이지 리뉴얼중입니다.
+
+
 
 
 # 현재 공부하고 있는 내용 📓
@@ -55,27 +60,16 @@
 - 🥉`[동상 3위] 2022년 교내 SW사업단 주최 Gitgub 포트폴리오 경진대회`
   
 # 🤖 AI 경진대회 참가이력 🤖
-- AI경진대회 참가 이력입니다. Basic등의 기초 대회를 포함합니다.
-- `[Dacon] 펭귄 몸무게 예측 경진대회(데이콘 베이직 Basic | 정형 | RMSE)`
-  - 최종 26위 / 725명
-  - https://dacon.io/codeshare/4123
-- `[Dacon] 영화 리뷰 감정분석 경진대회(데이콘 베이직 Basic | NLP | Accuracy)`
-  - 최종 39위 / 605명
-  - https://dacon.io/codeshare/4228
-- `[Dacon] 집값 예측 경진대회(데이콘 베이직 Basic | 정형 | NMAE)`
-  - 최종 132위 / 679명
-- `[Dacon] 항공사 고객 만족도 예측 경진대회(데이콘 베이직 Basic | 정확도 | Accuracy)`
-  - 🥈최종 2위 / 615명
-  - https://dacon.io/codeshare/4468
-- `[Dacon] 자율주행 센서의 안테나 성능 예측 AI경진대회 (LG | 정형 | 회귀 | 자율주행 | NRMSE)`
-  - 최종 224위 / 1,796명
-- `[Dacon] SW중심대학 공동 AI 경진대회 ❮예선❯ (SW중심대학 | 예선 | 심리성향 | AUC)`
-  - 최종 9위 / 724명
-  - https://dacon.io/competitions/official/235902/codeshare/6228?page=3&dtype=recent
-- `[Dacon] 포디블록 구조 추출 AI 경진대회 (알고리즘 | Vision | 분류 | Accuracy)`
-  - 최종 85위 / 928명
-- `[Dacon] 도배 하자 유형 분류 AI 경진대회 (알고리즘 | 비전 | 분류 | MLOps | Weighted F1 Score)`
-  - 최종 41위 / 1,806명
+| Competition 	| Subject                         	                | Task                  	| Rank / participants           | Percentile 	| Date  	|
+|-------------	|---------------------------------	                |-----------------------	|---------------	            |------------	|-------	|
+| Dacon       	| 2023 SW중심대학 공동 AI 경진대회 	                | Vision (Segmentation)   	| ? / 975명 	                | -             | 진행중 	|
+| Dacon       	| 도배 하자 유형 분류 AI 경진대회 	                | Vision (Classifier)   	| 41등 / 1,025팀 	            | 상위 4%    	| 23/05 	|
+| Dacon       	| 포디블록 구조 추출 AI 경진대회  	                | Vision (Segmentation) 	| 85등 / 461팀     	            | 상위 19%     	| 23/01     |
+| Dacon        	| 2022 SW중심대학 공동 AI 경진대회 (수상)        	| Vision (OCR)             	| 5등 / 77팀             	    | 상위 7%      	| 22/10     |
+| Dacon        	| 자율주행 센서의 안테나 성능 예측 AI경진대회        | Tabular             	    | 226등 / 975팀             	| 상위 23%      | 22/08     |
+| Dacon(basic)  | 항공사 고객 만족도 예측 경진대회        	        | Tabular             	    | 2등 / 615명             	    | 상위 1%      	| 22/02     |
+| Dacon(basic)  | 영화 리뷰 감정분석 경진대회        	            | NLP             	        | 39등 / 605명             	    | 상위 6%      	| -      	|
+| Dacon(basic)  | 펭귄 몸무게 예측 경진대회        	                | Tabular             	    | 26등 / 725명             	    | 상위 3%      	| 22/01     |
  
 
 
