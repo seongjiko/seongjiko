@@ -5,8 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&duration=3000&pause=1000&color=102b6a&background=FF5F0000&center=true&vCenter=true&width=435&lines=Majoring+about+AI+vision;Multiple+AI+Competitions+Participation+History;Multiple+AI+Paper+Submission+Experience;Multiple+AI-related+awards+experiences)](https://git.io/typing-svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjiko&count_bg=%23B9D7ED&title_bg=%235C6BC0&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
 #### :link: E-mail & Blog:link:
 [![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakaotalk&logoColor=white&link=mailto:soc06202@kakao.com)](mailto:soc06202@kakao.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:soc06202@naver.com)](mailto:soc06202@naver.com)
@@ -155,3 +153,5 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 
 </div>
 </details>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjiko&count_bg=%23B9D7ED&title_bg=%235C6BC0&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
