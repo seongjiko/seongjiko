@@ -39,6 +39,8 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 | 👍 우수논문상   |    6학기    |    2022 정보보호학회 동계학술대회(CISC-W’22) - CAN 프레임 간격 기반 침입 탐지 방법론 |
 | 👍 SW중심대학협의회장상(장려상)   |   6학기   |   [SW중심대학 공동 AI 경진대회 <본선>](https://github.com/seongjiko/customocr)   |
 
+</div>
+</details>
 
 ## :trophy: 한림대학교 교내 수상내역 :trophy:
 <details>
