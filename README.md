@@ -30,11 +30,12 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 <div markdown="1">
 하이퍼링크는 관련내용을 더욱 자세히 볼 수 있는 링크입니다.
    
-## :trophy: 교외 대회 수상내역  :trophy:
+## :trophy: 역대 수상내역  :trophy:
 <details>
-<summary> 교외 대회 수상내역 보기 </summary>
+<summary> 역대 수상내역 보기 </summary>
 <div markdown="1">
 
+## :trophy:교외 수상내역:trophy:
 | Award 	| Date                         	          | Task                  	| 
 |-------------	|---------------------------------   |-----------------------	|
 | 🏆 과학기술정보통신부 장관상(대상)      	| 6학기    | [제 9회 대한민국 SW융합 해커톤 대회](https://github.com/seongjiko/DeepSeat_project)    |
@@ -42,13 +43,9 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 | 👍 우수논문상   |    6학기    |    2022 정보보호학회 동계학술대회(CISC-W’22)  |
 | 👍 SW중심대학협의회장상(장려상)   |   6학기   |   [SW중심대학 공동 AI 경진대회 <본선>](https://github.com/seongjiko/customocr)   |
 
-</div>
-</details>
+
 
 ## :trophy: 한림대학교 교내 수상내역 :trophy:
-<details>
-<summary> 한림대학교 교내 수상내역 보기 </summary>
-<div markdown="1">  
    
    
 | Award 	| Date                         	          | Task                  	| 
