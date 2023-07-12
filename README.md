@@ -1,6 +1,10 @@
+
+
 <div align="center"> 
    <!-- 1,14,15,18,19,20,25,27,28 -->
-   
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjiko&count_bg=%23B9D7ED&title_bg=%235C6BC0&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=230&section=header&text=SEONGJI-KO&animation=scaleIn&fontSize=90&fontAlignY=38&desc=Thank%20you%20for%20visiting%20my%20GitHub.&descAlignY=57&descAlign=62) </br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=40&duration=3000&pause=1000&color=FFFFFF&background=102B6A&center=true&vCenter=true&repeat=false&width=435&lines=-+About+Me+-)](https://git.io/typing-svg)
 
@@ -23,11 +27,12 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white) <br>
 ![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/VSC-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![anaconda](https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjiko&count_bg=%23B9D7ED&title_bg=%235C6BC0&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 #### 📓 Project in progress 📓
 MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기 교육 피드백 모델 개발 및 적용 </br>
