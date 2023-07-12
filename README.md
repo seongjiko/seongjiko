@@ -49,14 +49,11 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 |-------------	|---------------------------------   |-----------------------	|
 | 🏆 과학기술정보통신부 장관상(대상)      	| 6학기    | [제 9회 대한민국 SW융합 해커톤 대회](https://github.com/seongjiko/DeepSeat_project)    |
 | 👍 장려상   |   6학기   |   [ACK 2022 학부생 논문 경진 대회](https://kiss.kstudy.com/Detail/Ar?key=3988536)
-| 👍 우수논문상   |    6학기    |    2022 정보보호학회 동계학술대회(CISC-W’22)  |
+| 👍 우수논문상   |    6학기    |    [2022 정보보호학회 동계학술대회(CISC-W’22)](https://drive.google.com/file/d/1mPGJASFDbxuyq_kr2o7Wz7Wdxmy5P2CE/view?usp=sharing)  |
 | 👍 SW중심대학협의회장상(장려상)   |   6학기   |   [SW중심대학 공동 AI 경진대회 <본선>](https://github.com/seongjiko/customocr)   |
 
-
-
 ## :trophy: 한림대학교 교내 수상내역 :trophy:
-   
-   
+
 | Award 	| Date                         	          | Task                  	| 
 |-------------	|---------------------------------   |-----------------------	|
 | 🥇인기상 1위      	| 2학기    | 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품    |
@@ -72,6 +69,20 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 | 🥇최우수상 1위         | 5학기    | 교내 LINK+ 사업단 주최 커리어 포트폴리오 경진대회  |
 | 🥈금상 2위         | 6학기   | [2022년 1학기, 교내 SW사업단 주최 SW 캡스톤디자인 (DeepSeat)](https://github.com/seongjiko/DeepSeat_project) |
 | 🥉동상 3위         | 7학기   | 2022년 교내 SW사업단 주최 Gitgub 포트폴리오 경진대회 |
+
+</div>
+</details>
+
+## 📑 Paper 📑
+<details>
+<summary> 작성한 논문 리스트 보기 </summary>
+<div markdown="1">
+   
+| conference & journals 	| Date                   | Title                  	| authors
+|-------------	|---------------------------------   |-----------------------	|--------------------
+| undetermined | 2023.07    | [Harnessing Optical Flow in a Deep Learning Framework for Cardiopulmonary Resuscitation Training](https://drive.google.com/file/d/16Hyr4Ykj_eyNkerdZNr1nyoMJkVMPNUe/view?usp=sharing)    | S. Ko et al. (correspond: Choung Ah Lee, Jong-Uk Hou)
+| 한국정보보호학회 (CISC-W’22)   |   2022.11   | [CAN 프레임 간격 기반 침입 탐지 방법론](https://drive.google.com/file/d/1mPGJASFDbxuyq_kr2o7Wz7Wdxmy5P2CE/view?usp=sharing) | S. Ko et al. (correspond: Byung Il Kwak)
+| 한국정보처리학회 (ACK 2022)  |   2022.10   | [신뢰할 수 있는 딥러닝 기반 단일 캠 좌석현황 실시간 탐지 솔루션](https://kiss.kstudy.com/Detail/Ar?key=3988536) | S. Ko et al. (correspond: Jong-Uk Hou)
 
 </div>
 </details>
