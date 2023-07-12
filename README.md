@@ -10,7 +10,8 @@
 [![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakaotalk&logoColor=white&link=mailto:soc06202@kakao.com)](mailto:soc06202@kakao.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:soc06202@naver.com)](mailto:soc06202@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soc06202@gmail.com)](mailto:soc06202@gmail.com)
-[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=mailto:soc06202@gmail.com)](mailto:soc06202@gmail.com)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://sjkoding.tistory.com)](https://sjkoding.tistory.com/)
+
 
 #### 🖥️Stacks & environment🖥️
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
