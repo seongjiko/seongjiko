@@ -102,6 +102,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 | Dacon       	| 2023 SW중심대학 공동 AI 경진대회	                | Vision (Segmentation)   	| ? / 975명 	                | -             | 진행중 	|
 | Dacon       	| 도배 하자 유형 분류 AI 경진대회 	                | Vision (Classifier)   	| 41등 / 1,025팀 	            | 상위 4%    	| 23/05 	|
 | Dacon       	| 포디블록 구조 추출 AI 경진대회  	                | Vision (Segmentation) 	| 85등 / 461팀     	            | 상위 19%     	| 23/01     |
+| AI CONNECT       	| 2022 국방 AI 경진대회 (일반인 부문)  	    | Vision (Segmentation) 	| 19등 / 110팀     	            | 상위 17%     	| 22/11     |
 | Dacon        	| [2022 SW중심대학 공동 AI 경진대회](https://github.com/seongjiko/customocr) (수상)        	| Vision (OCR)             	| 5등 / 77팀             	    | 상위 7%      	| 22/10     |
 | Dacon        	| 자율주행 센서의 안테나 성능 예측 AI경진대회        | Tabular             	    | 226등 / 975팀             	| 상위 23%      | 22/08     |
 | Dacon(basic)  | [항공사 고객 만족도 예측 경진대회](https://sjkoding.tistory.com/14)        	        | Tabular             	    | 2등 / 615명             	    | 상위 1%      	| 22/02     |
