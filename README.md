@@ -54,7 +54,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 | 👍 장려상   |   6학기   |   [ACK 2022 학부생 논문 경진 대회](https://kiss.kstudy.com/Detail/Ar?key=3988536)
 | 👍 우수논문상   |    6학기    |    [2022 정보보호학회 동계학술대회(CISC-W’22)](https://drive.google.com/file/d/1mPGJASFDbxuyq_kr2o7Wz7Wdxmy5P2CE/view?usp=sharing)  |
 | 👍 SW중심대학협의회장상(4등)   |   6학기   |   [SW중심대학 공동 AI 경진대회 2022](https://github.com/seongjiko/customocr)   |
-| 🥉 SW중심대학협의회장상(3등)   |   7학기   |   SW중심대학 공동 AI 경진대회 2023   |
+| 🥉 SW중심대학협의회장상(3등)   |   7학기   |   [SW중심대학 공동 AI 경진대회 2023](https://github.com/seongjiko/Satellite_AI_competition)   |
 
 ## :trophy: 한림대학교 교내 수상내역 :trophy:
 
