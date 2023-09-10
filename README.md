@@ -1,15 +1,13 @@
-
-
 <div align="center"> 
    <!-- 1,14,15,18,19,20,25,27,28 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjiko&count_bg=%23B9D7ED&title_bg=%235C6BC0&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjiko&count_bg=%23B9D7ED&title_bg=%235C6BC0&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=230&section=header&text=SEONGJI-KO&animation=scaleIn&fontSize=90&fontAlignY=38&desc=Thank%20you%20for%20visiting%20my%20GitHub.&descAlignY=57&descAlign=62) </br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=40&duration=3000&pause=1000&color=FFFFFF&background=102B6A&center=true&vCenter=true&repeat=false&width=435&lines=-+About+Me+-)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=40&duration=3000&pause=1000&color=FFFFFF&background=102B6A&center=true&vCenter=true&repeat=false&width=435&lines=-+About+Me+-)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&duration=3000&pause=1000&color=102b6a&background=FF5F0000&center=true&vCenter=true&width=435&lines=Majoring+about+AI+vision;Multiple+AI+Competitions+Participation+History;Multiple+AI+Paper+Submission+Experience;Multiple+AI-related+awards+experiences)](https://git.io/typing-svg)
-
+-->
 #### :link: E-mail & Blog:link:
 [![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakaotalk&logoColor=white&link=mailto:soc06202@kakao.com)](mailto:soc06202@kakao.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:soc06202@naver.com)](mailto:soc06202@naver.com)
@@ -19,10 +17,10 @@
 
 #### 🖥️Stacks & environment🖥️
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white) <br>
+<!-- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white) <br> -->
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
-![unity](https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white) <br>
+<!-- ![unity](https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white) <br> -->
 ![opencv](https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white) <br>
@@ -39,14 +37,16 @@ MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기
 CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구 </br>
 
 # 🔎 상세내용 더보기 🔍
+## 📑 연구 논문 📑
+   
+| conference & journals 	| Date                   | Title                  	| authors
+|-------------	|---------------------------------   |-----------------------	|--------------------
+| Expert System with Application(ESWA)(IF: 8.5) | 2023.09    | Harnessing Optical Flow in Deep Learning Framework for Cardiopulmonary Resuscitation Training   | S. Ko et al. (correspond: Choung Ah Lee, Jong-Uk Hou)
+| 한국정보보호학회 (CISC-W’22)   |   2022.11   | [CAN 프레임 간격 기반 침입 탐지 방법론](https://drive.google.com/file/d/1mPGJASFDbxuyq_kr2o7Wz7Wdxmy5P2CE/view?usp=sharing) | S. Ko et al. (correspond: Byung Il Kwak)
+| 한국정보처리학회 (ACK 2022)  |   2022.10   | [신뢰할 수 있는 딥러닝 기반 단일 캠 좌석현황 실시간 탐지 솔루션](https://kiss.kstudy.com/Detail/Ar?key=3988536) | S. Ko et al. (correspond: Jong-Uk Hou)
+
 
 하이퍼링크는 관련내용을 더욱 자세히 볼 수 있는 링크입니다.
-   
-## :trophy: 역대 수상내역  :trophy:
-<details>
-<summary> 역대 수상내역 보기 </summary>
-<div markdown="1">
-
 ## :trophy:교외 수상내역:trophy:
 | Award 	| Date                         	          | Task                  	| 
 |-------------	|---------------------------------   |-----------------------	|
@@ -56,6 +56,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 | 👍 SW중심대학협의회장상(4등)   |   6학기   |   [SW중심대학 공동 AI 경진대회 2022](https://github.com/seongjiko/customocr)   |
 | 🥉 SW중심대학협의회장상(3등)   |   7학기   |   [SW중심대학 공동 AI 경진대회 2023](https://github.com/seongjiko/Satellite_AI_competition)   |
 
+<!--
 ## :trophy: 한림대학교 교내 수상내역 :trophy:
 
 | Award 	| Date                         	          | Task                  	| 
@@ -72,28 +73,9 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 | 🥇최우수상 1위         | 5학기    | 교내 LINK+ 사업단 주최 커리어 포트폴리오 경진대회  |
 | 🥈금상 2위         | 6학기   | [2022년 1학기, 교내 SW사업단 주최 SW 캡스톤디자인 (DeepSeat)](https://github.com/seongjiko/DeepSeat_project) |
 | 🥉동상 3위         | 7학기   | 2022년 교내 SW사업단 주최 Gitgub 포트폴리오 경진대회 |
-
-</div>
-</details>
-
-## 📑 Paper 📑
-<details>
-<summary> 작성한 논문 리스트 보기 </summary>
-<div markdown="1">
-   
-| conference & journals 	| Date                   | Title                  	| authors
-|-------------	|---------------------------------   |-----------------------	|--------------------
-| Expert System with Application(ESWA)(IF: 8.5) | 2023.09    | Harnessing Optical Flow in Deep Learning Framework for Cardiopulmonary Resuscitation Training   | S. Ko et al. (correspond: Choung Ah Lee, Jong-Uk Hou)
-| 한국정보보호학회 (CISC-W’22)   |   2022.11   | [CAN 프레임 간격 기반 침입 탐지 방법론](https://drive.google.com/file/d/1mPGJASFDbxuyq_kr2o7Wz7Wdxmy5P2CE/view?usp=sharing) | S. Ko et al. (correspond: Byung Il Kwak)
-| 한국정보처리학회 (ACK 2022)  |   2022.10   | [신뢰할 수 있는 딥러닝 기반 단일 캠 좌석현황 실시간 탐지 솔루션](https://kiss.kstudy.com/Detail/Ar?key=3988536) | S. Ko et al. (correspond: Jong-Uk Hou)
-
-</div>
-</details>
+-->
 
 ## 🤖 AI 경진대회 참가이력 🤖
-<details>
-<summary> AI 경진대회 참가 이력 보기 </summary>
-<div markdown="1">
 
 | Competition 	| Subject                         	                | Task                  	| Rank / participants           | Percentile 	| Date  	|
 |-------------	|---------------------------------	                |-----------------------	|---------------	            |------------	|-------	|
@@ -106,15 +88,9 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 | Dacon(basic)  | [항공사 고객 만족도 예측 경진대회](https://sjkoding.tistory.com/14)        	        | Tabular             	    | 2등 / 615명             	    | 상위 1%      	| 22/02     |
 | Dacon(basic)  | 영화 리뷰 감정분석 경진대회        	            | NLP             	        | 39등 / 605명             	    | 상위 6%      	| -      	|
 | Dacon(basic)  | [펭귄 몸무게 예측 경진대회](https://sjkoding.tistory.com/7)        	                | Tabular             	    | 26등 / 725명             	    | 상위 3%      	| 22/01     |
- 
-</div>
-</details>
 
+<!--
 ## :bulb: 교내 교육 관련 활동내역 :bulb:
-
-<details>
-<summary> 교내 교육 관련 활동내역 보기 </summary>
-<div markdown="1">
    
 | Role 	| Date                         	          | Task                  	|     Subject   |
 |-------------	|---------------------------------   |-----------------------	|-------------  |
@@ -130,15 +106,10 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 | 멘토      	| 21-2    | 교내 교과목 멘토링 멘토활동    |   C++, R   |
 | 멘토      	| 22-동계    | 교내 SW사업단 동계 전공 멘토링 멘토활동    |   Python   |
 | 멘토      	| 22-하계    | 교내 SW사업단 동계 전공 멘토링 멘토활동    |   Python   |
-</div>
-</details>
+-->
 
+<!--   
 ##  :mortar_board: 교내 활동내역 :mortar_board:
-
-<details>
-<summary> 교내 활동내역 보기 </summary>
-<div markdown="1">
-   
 | Activity 	| Date                         	          | Detail                  	|   Role   |
 |-------------	|---------------------------------   |-----------------------	|-------------  |
 |   동아리 👨‍🎓   |   2018 ~   |   교내 소프트웨어융합대학 학술 동아리 씨애랑 회원 등록   |  회원  |
@@ -153,23 +124,14 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 |   학생회 🏫  |   2019   |   제 1대 빅데이터 학생회 '한결'   |   홍보부장   |
 |   학생회 🏫  |   2021   |   제 3대 빅데이터 학생회 'PLUS'   |   복지부장   |
 |   학생회 🏫  |   2022   |   제 4대 소프트웨어융합대학 학생회 'A:BLE'   |   홍보국장   |
-</div>
-</details>
-
+-->
 
 ## 🏫 핵심 특강 🏫
-
-<details>
-<summary> 교내 활동내역 보기 </summary>
-<div markdown="1">
 
 | Institution  	| Date                         	          | Detail                  	|   Subject   |
 |-------------	|---------------------------------   |-----------------------	|-------------  |
 |   멀티캠퍼스   |   2021.12.27 ~ 2022.01.05 (56H)   |   파이썬 DT 교육 심화, 전공반   |     AI/Data   |
 |   멀티캠퍼스   |   2022.02.14 ~ 2022.02.19 (40H)   |   파이썬DT 데이터역량 집중교육 프로그램   |     AI/Data   |
 |   KT   |   2023.08.08 ~ 2024.01.25 (840H)   |   KT AIVLE AI개발자 코스   |   AI/Data   |
-
-</div>
-</details>
 
 
