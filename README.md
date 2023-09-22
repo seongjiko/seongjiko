@@ -37,6 +37,8 @@ MMC 연구실: 동탄성심병원, 딥러닝을 이용한 심폐소생술 술기
 CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디지털 포렌식 원천기술 연구 </br>
 
 # 🔎 상세내용 더보기 🔍
+`하이퍼링크는 관련내용을 더욱 자세히 볼 수 있는 링크입니다.`
+
 ## 📑 연구 논문 📑
    
 | conference & journals 	| Date                   | Title                  	| authors
@@ -46,7 +48,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 | 한국정보처리학회 (ACK 2022)  |   2022.10   | [신뢰할 수 있는 딥러닝 기반 단일 캠 좌석현황 실시간 탐지 솔루션](https://kiss.kstudy.com/Detail/Ar?key=3988536) | S. Ko et al. (correspond: Jong-Uk Hou)
 
 
-하이퍼링크는 관련내용을 더욱 자세히 볼 수 있는 링크입니다.
+
 ## :trophy:교외 수상내역:trophy:
 | Award 	| Date                         	          | Task                  	| 
 |-------------	|---------------------------------   |-----------------------	|
@@ -56,9 +58,9 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 | 👍 SW중심대학협의회장상(4등)   |   6학기   |   [SW중심대학 공동 AI 경진대회 2022](https://github.com/seongjiko/customocr)   |
 | 🥉 SW중심대학협의회장상(3등)   |   7학기   |   [SW중심대학 공동 AI 경진대회 2023](https://github.com/seongjiko/Satellite_AI_competition)   |
 
-<!--
-## :trophy: 한림대학교 교내 수상내역 :trophy:
-
+<details>
+  <summary> 한림대학교 교내 수상내역 </summary>
+   
 | Award 	| Date                         	          | Task                  	| 
 |-------------	|---------------------------------   |-----------------------	|
 | 🥇인기상 1위      	| 2학기    | 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품    |
@@ -73,7 +75,8 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
 | 🥇최우수상 1위         | 5학기    | 교내 LINK+ 사업단 주최 커리어 포트폴리오 경진대회  |
 | 🥈금상 2위         | 6학기   | [2022년 1학기, 교내 SW사업단 주최 SW 캡스톤디자인 (DeepSeat)](https://github.com/seongjiko/DeepSeat_project) |
 | 🥉동상 3위         | 7학기   | 2022년 교내 SW사업단 주최 Gitgub 포트폴리오 경진대회 |
--->
+   
+</details>
 
 ## 🤖 AI 경진대회 참가이력 🤖
 
