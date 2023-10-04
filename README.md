@@ -43,7 +43,7 @@ CREFFAS 기초연구실: 자율주행 차량 제어 주체 판별을 위한 디�
    
 | conference & journals 	| Date                   | Title                  	| authors
 |-------------	|---------------------------------   |-----------------------	|--------------------
-| Expert System with Application(ESWA)(IF: 8.5) | 2023.09    | [Harnessing Optical Flow in Deep Learning Framework for Cardiopulmonary Resuscitation Training](https://github.com/seongjiko/CPR-estimator)   | S. Ko et al. (correspond: Choung Ah Lee, Jong-Uk Hou)
+| Expert System with Application(ESWA)(IF: 8.5) | 2023.10    | [Harnessing Optical Flow in Deep Learning Framework for Cardiopulmonary Resuscitation Training](https://doi.org/10.1016/j.eswa.2023.121775)   | S. Ko et al. (correspond: Choung Ah Lee, Jong-Uk Hou)
 | 한국정보보호학회 (CISC-W’22)   |   2022.11   | [CAN 프레임 간격 기반 침입 탐지 방법론](https://drive.google.com/file/d/1mPGJASFDbxuyq_kr2o7Wz7Wdxmy5P2CE/view?usp=sharing) | S. Ko et al. (correspond: Byung Il Kwak)
 | 한국정보처리학회 (ACK 2022)  |   2022.10   | [신뢰할 수 있는 딥러닝 기반 단일 캠 좌석현황 실시간 탐지 솔루션](https://kiss.kstudy.com/Detail/Ar?key=3988536) | S. Ko et al. (correspond: Jong-Uk Hou)
 
