@@ -6,8 +6,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=230&section=header&text=SEONGJI-KO&animation=scaleIn&fontSize=90&fontAlignY=38&desc=Thank%20you%20for%20visiting%20my%20GitHub.&descAlignY=57&descAlign=62) </br>
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=40&duration=3000&pause=1000&color=FFFFFF&background=102B6A&center=true&vCenter=true&repeat=false&width=435&lines=-+About+Me+-)](https://git.io/typing-svg)
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&duration=3000&pause=1000&color=102b6a&background=FF5F0000&center=true&vCenter=true&width=435&lines=Majoring+about+AI+vision;Multiple+AI+Competitions+Participation+History;Multiple+AI+Paper+Submission+Experience;Multiple+AI-related+awards+experiences)](https://git.io/typing-svg)
 -->
+
+## [Notion portfolio](https://sjko.notion.site/SJKO-Portfolio-2505cb289244473ba844f47524efe382?pvs=4)
+
 #### :link: E-mail & Blog:link:
 [![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakaotalk&logoColor=white&link=mailto:soc06202@kakao.com)](mailto:soc06202@kakao.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:soc06202@naver.com)](mailto:soc06202@naver.com)
