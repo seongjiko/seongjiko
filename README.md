@@ -10,7 +10,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&duration=3000&pause=1000&color=102b6a&background=FF5F0000&center=true&vCenter=true&width=435&lines=Majoring+about+AI+vision;Multiple+AI+Competitions+Participation+History;Multiple+AI+Paper+Submission+Experience;Multiple+AI-related+awards+experiences)](https://git.io/typing-svg)
 -->
 
-## [Notion portfolio](https://sjko.notion.site/SJKO-Portfolio-2505cb289244473ba844f47524efe382?pvs=4)
+![image](https://github.com/seongjiko/seongjiko/assets/46768743/26fb765a-8cd5-4568-ab73-1e04fa39c411)
+
+
+# [Notion portfolio](https://sjko.notion.site/SJKO-Portfolio-2505cb289244473ba844f47524efe382?pvs=4)
 
 #### :link: E-mail & Blog:link:
 [![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakaotalk&logoColor=white&link=mailto:soc06202@kakao.com)](mailto:soc06202@kakao.com)
