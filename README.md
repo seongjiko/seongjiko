@@ -14,7 +14,7 @@
 
 
 # [Notion portfolio](https://sjko.notion.site/SJKO-Portfolio-2505cb289244473ba844f47524efe382?pvs=4)
-
+## ▲ 저에 관한 더욱 많은 정보가 담겨있습니다.
 #### :link: E-mail & Blog:link:
 [![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakaotalk&logoColor=white&link=mailto:soc06202@kakao.com)](mailto:soc06202@kakao.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:soc06202@naver.com)](mailto:soc06202@naver.com)
