@@ -23,19 +23,8 @@
 
 
 #### 🖥️Stacks & environment🖥️
-![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
-<!-- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white) <br> -->
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
-<!-- ![unity](https://img.shields.io/badge/unity-FFFFFF?style=flat&logo=unity&logoColor=white) <br> -->
-![opencv](https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white) <br>
-![linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white)
-![visualstudiocode](https://img.shields.io/badge/VSC-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![jupyter](https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![anaconda](https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![image](https://github.com/seongjiko/seongjiko/assets/46768743/3bc679b5-cc3f-4501-a778-1902055a0217)
+
 
 
 
