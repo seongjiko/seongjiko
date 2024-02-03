@@ -13,7 +13,7 @@
 ![image](https://github.com/seongjiko/seongjiko/assets/46768743/26fb765a-8cd5-4568-ab73-1e04fa39c411)
 
 
-# [Notion portfolio](https://sjko.notion.site/SJKO-Portfolio-2505cb289244473ba844f47524efe382?pvs=4)
+# [Notion portfolio](https://www.notion.so/sjko/60407afad7c8492380b0d77902c75ad3)
 ## ▲ 저에 관한 더욱 많은 정보가 담겨있습니다.
 #### :link: E-mail & Blog:link:
 [![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakaotalk&logoColor=white&link=mailto:soc06202@kakao.com)](mailto:soc06202@kakao.com)
