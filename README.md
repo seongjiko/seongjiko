@@ -21,8 +21,8 @@
 
 
 #### 🖥️ Stacks 🖥️
-Domain: Vision AI, LLM(Langchain)<br>
-Library: PyTorch, Scikit-learn, hugging face(Transformes)<br>
+Domain: Vision AI, LLM, Time Series<br>
+Library: PyTorch, Scikit-learn, hugging face(Transformes), Langchain<br>
 Language: Python, C<br>
 
 # 🔎 상세내용 더보기 🔍
