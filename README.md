@@ -11,8 +11,6 @@
 -->
 ### 안녕하세요, AI 신입 개발자 고성지입니다.
 ![image](https://github.com/seongjiko/seongjiko/assets/46768743/26fb765a-8cd5-4568-ab73-1e04fa39c411)
-
-
 # [Notion portfolio](https://www.notion.so/sjko/60407afad7c8492380b0d77902c75ad3)
 ## ▲ 저에 관한 더욱 많은 정보가 담겨있습니다.
 #### :link: E-mail & Blog:link:
@@ -22,8 +20,10 @@
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://sjkoding.tistory.com)](https://sjkoding.tistory.com/)
 
 
-#### 🖥️Stacks & environment🖥️
-![image](https://github.com/seongjiko/seongjiko/assets/46768743/3bc679b5-cc3f-4501-a778-1902055a0217)
+#### 🖥️ Stacks 🖥️
+Domain: Vision AI, LLM(Langchain)<br>
+Library: PyTorch, Scikit-learn, hugging face(Transformes)<br>
+Language: Python, C<br>
 
 # 🔎 상세내용 더보기 🔍
 `하이퍼링크는 관련내용을 더욱 자세히 볼 수 있는 링크입니다.`
