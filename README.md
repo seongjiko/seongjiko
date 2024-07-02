@@ -1,34 +1,67 @@
-<div align="center"> 
+
    <!-- 1,14,15,18,19,20,25,27,28 -->
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjiko&count_bg=%23B9D7ED&title_bg=%235C6BC0&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=230&section=header&text=SEONGJI-KO&animation=scaleIn&fontSize=90&fontAlignY=38&desc=Thank%20you%20for%20visiting%20my%20GitHub.&descAlignY=57&descAlign=62) </br>
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=40&duration=3000&pause=1000&color=FFFFFF&background=102B6A&center=true&vCenter=true&repeat=false&width=435&lines=-+About+Me+-)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=500&duration=3000&pause=1000&color=102b6a&background=FF5F0000&center=true&vCenter=true&width=435&lines=Majoring+about+AI+vision;Multiple+AI+Competitions+Participation+History;Multiple+AI+Paper+Submission+Experience;Multiple+AI-related+awards+experiences)](https://git.io/typing-svg)
--->
-### 안녕하세요, AI 신입 개발자 고성지입니다.
-![image](https://github.com/seongjiko/seongjiko/assets/46768743/26fb765a-8cd5-4568-ab73-1e04fa39c411)
-# [Notion portfolio](https://www.notion.so/sjko/60407afad7c8492380b0d77902c75ad3)
-## ▲ 저에 관한 더욱 많은 정보가 담겨있습니다.
+# About me
+<img src="https://github.com/seongjiko/seongjiko/assets/46768743/26fb765a-8cd5-4568-ab73-1e04fa39c411" width="10%" height="10%">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=1000&pause=2000&color=000000&vCenter=true&random=true&width=550&lines=Experience+with+multiple+Vision+AI+domains;Experience+developing+LLM+services;Published+1+author+in+an+SCI-quality+journal;Experience+developing+a+variety+of+AI+models;Winner+of+multiple+awards)](https://github.com/seongjiko/seongjiko/assets/46768743/26fb765a-8cd5-4568-ab73-1e04fa39c411) <br>
+▲ It's got a lot more information about me.
+
 #### :link: E-mail & Blog:link:
 [![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakaotalk&logoColor=white&link=mailto:soc06202@kakao.com)](mailto:soc06202@kakao.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:soc06202@naver.com)](mailto:soc06202@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soc06202@gmail.com)](mailto:soc06202@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://sjkoding.tistory.com)](https://sjkoding.tistory.com/)
 
+# Library
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white">
 
-#### 🖥️ Stacks 🖥️
-Domain: Vision AI, LLM, Time Series<br>
-Library: PyTorch, Scikit-learn, hugging face(Transformes), Langchain<br>
-Language: Python, C<br>
+# Domain Overview
 
-# 🔎 상세내용 더보기 🔍
-`하이퍼링크는 관련내용을 더욱 자세히 볼 수 있는 링크입니다.`
+---
 
-## 📑 출판 논문 📑
+### **Vision AI**
+- **Video Multi-task Learning**
+- **Image Multi-task Learning**
+- **Object Detection**
+- **Semantic Segmentation**
+- **OCR (Optical Character Recognition)**
+
+---
+
+### **Large Language Models (LLM)** (In progress)
+- **Private-LLM**
+- **sLLM**
+- **Instruct Tuning**
+  - Full-parameter fine tuning
+  - LoRA (Low-Rank Adaptation) fine tuning
+- **Prompt Tuning**
+- **Model Compression**
+  - GGUF (Generalized Gibbs Updates Framework)
+  - Quantization
+- **Function-Calling**
+- **Chat-Bot**
+- **RAG (Retrieval-Augmented Generation)**
+- **NER (Named Entity Recognition)**
+
+---
+
+### **Time-Series**
+- **IoT Time Series Data Processing** (In progress)
+- **Video Time Series Analysis**
+- **IDS (Intrusion Detection System)**
+
+---
+
+# 🔎 More details 🔍
+`Hyperlinks are links to more detailed information about a topic.
+
+## 📑 Published articles 📑
    
 | conference & journals 	| Date                   | Title                  	| authors
 |-------------	|---------------------------------   |-----------------------	|--------------------
@@ -38,7 +71,7 @@ Language: Python, C<br>
 
 
 
-## :trophy:교외 수상내역:trophy:
+## :trophy:Extracurricular Awards:trophy:
 | Award 	| Date                         	          | Task                  	| 
 |-------------	|---------------------------------   |-----------------------	|
 | 🏆 과학기술정보통신부 장관상(대상)      	| 6학기    | [제 9회 대한민국 SW융합 해커톤 대회](https://github.com/seongjiko/DeepSeat_project)    |
@@ -47,8 +80,23 @@ Language: Python, C<br>
 | 👍 SW중심대학협의회장상(4등)   |   6학기   |   [SW중심대학 공동 AI 경진대회 2022](https://github.com/seongjiko/customocr)   |
 | 🥉 SW중심대학협의회장상(3등)   |   7학기   |   [SW중심대학 공동 AI 경진대회 2023](https://github.com/seongjiko/Satellite_AI_competition)   |
 
+## 🤖 AI Competition History 🤖
 
-### 한림대학교 교내 수상내역
+| Competition  | Subject                                                        | Task                   | Rank / Participants | Date     |
+|--------------|----------------------------------------------------------------|------------------------|---------------------|----------|
+| AI Factory        | [3rd ETRI Human Understanding AI Paper Competition](https://aifactory.space/task/2790/overview) | Time-Series            | 3rd / 41 teams      | 24/07    |
+| Dacon        | [2023 SW-centered University AI Competition](https://github.com/seongjiko/Satellite_AI_competition) | Vision (Segmentation)  | 6th / 201 teams     | 23/08    |
+| Dacon        | Wallpaper Defect Classification AI Competition                 | Vision (Classifier)    | 41st / 1,025 teams  | 23/05    |
+| Dacon        | 4D Block Structure Extraction AI Competition                   | Vision (Segmentation)  | 85th / 461 teams    | 23/01    |
+| AI CONNECT   | 2022 Defense AI Competition (General Division)                 | Vision (Segmentation)  | 19th / 110 teams    | 22/11    |
+| Dacon        | [2022 SW-centered University AI Competition](https://github.com/seongjiko/customocr) | Vision (OCR)           | 5th / 77 teams      | 22/10    |
+| Dacon        | Autonomous Driving Sensor Antenna Performance Prediction AI Competition | Tabular                | 226th / 975 teams   | 22/08    |
+| Dacon (basic)| [Airline Customer Satisfaction Prediction Competition](https://sjkoding.tistory.com/14) | Tabular                | 2nd / 615 people    | 22/02    |
+| Dacon (basic)| Movie Review Sentiment Analysis Competition                    | NLP                    | 39th / 605 people   | -        |
+| Dacon (basic)| [Penguin Weight Prediction Competition](https://sjkoding.tistory.com/7) | Tabular                | 26th / 725 people   | 22/01    |
+
+
+### Hallym University Intramural Awards
    
 | Award 	| Date                         	          | Task                  	| 
 |-------------	|---------------------------------   |-----------------------	|
@@ -67,19 +115,7 @@ Language: Python, C<br>
 🥇인기상 1위 | 2학기 | 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품
    
 
-## 🤖 AI 경진대회 참가이력 🤖
 
-| Competition 	| Subject                         	                | Task                  	| Rank / participants           | Percentile 	| Date  	|
-|-------------	|---------------------------------	                |-----------------------	|---------------	            |------------	|-------	|
-| Dacon       	| [2023 SW중심대학 공동 AI 경진대회](https://github.com/seongjiko/Satellite_AI_competition)	                | Vision (Segmentation)   	| 6위 / 201팀 	                | -             | 23/08 	|
-| Dacon       	| 도배 하자 유형 분류 AI 경진대회 	                | Vision (Classifier)   	| 41등 / 1,025팀 	            | 상위 4%    	| 23/05 	|
-| Dacon       	| 포디블록 구조 추출 AI 경진대회  	                | Vision (Segmentation) 	| 85등 / 461팀     	            | 상위 19%     	| 23/01     |
-| AI CONNECT       	| 2022 국방 AI 경진대회 (일반인 부문)  	    | Vision (Segmentation) 	| 19등 / 110팀     	            | 상위 17%     	| 22/11     |
-| Dacon        	| [2022 SW중심대학 공동 AI 경진대회](https://github.com/seongjiko/customocr)        	| Vision (OCR)             	| 5등 / 77팀             	    | 상위 7%      	| 22/10     |
-| Dacon        	| 자율주행 센서의 안테나 성능 예측 AI경진대회        | Tabular             	    | 226등 / 975팀             	| 상위 23%      | 22/08     |
-| Dacon(basic)  | [항공사 고객 만족도 예측 경진대회](https://sjkoding.tistory.com/14)        	        | Tabular             	    | 2등 / 615명             	    | 상위 1%      	| 22/02     |
-| Dacon(basic)  | 영화 리뷰 감정분석 경진대회        	            | NLP             	        | 39등 / 605명             	    | 상위 6%      	| -      	|
-| Dacon(basic)  | [펭귄 몸무게 예측 경진대회](https://sjkoding.tistory.com/7)        	                | Tabular             	    | 26등 / 725명             	    | 상위 3%      	| 22/01     |
 
 <!--
 ## :bulb: 교내 교육 관련 활동내역 :bulb:
@@ -118,7 +154,7 @@ Language: Python, C<br>
 |   학생회 🏫  |   2022   |   제 4대 소프트웨어융합대학 학생회 'A:BLE'   |   홍보국장   |
 -->
 
-## 🏫 핵심 특강 🏫
+## 🏫 Core training 🏫
 
 | Institution  	| Date                         	          | Detail                  	|   Subject   |
 |-------------	|---------------------------------   |-----------------------	|-------------  |
@@ -126,5 +162,5 @@ Language: Python, C<br>
 |   멀티캠퍼스   |   2022.02.14 ~ 2022.02.19 (40H)   |   파이썬DT 데이터역량 집중교육 프로그램   |     AI/Data   |
 |   KT   |   2023.08.08 ~ 2024.01.25 (840H)   |   KT AIVLE AI개발자 코스   |   AI/Data   |
 
-## 👨‍🎓 자격증 👨‍🎓
+## 👨‍🎓 Certifications 👨‍🎓
 SQLD, ADsP, AICE Associate
