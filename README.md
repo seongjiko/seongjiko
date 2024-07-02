@@ -37,7 +37,7 @@
 ### **Large Language Models (LLM)** (In progress)
 - **Private-LLM**
 - **sLLM**
-- **Instruct Tuning**
+- **Instruction Tuning**
   - Full-parameter fine tuning
   - LoRA (Low-Rank Adaptation) fine tuning
 - **Prompt Tuning**
