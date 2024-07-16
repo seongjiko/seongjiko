@@ -7,10 +7,10 @@
 
 
 # About me
-<img src="https://github.com/seongjiko/seongjiko/assets/46768743/26fb765a-8cd5-4568-ab73-1e04fa39c411" width="10%" height="10%">
+## ▼ Click the text to go to your portfolio site.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=1000&pause=2000&color=000000&vCenter=true&random=true&width=550&lines=Experience+with+multiple+Vision+AI+domains;Experience+developing+LLM+services;Published+1+author+in+an+SCI-quality+journal;Experience+developing+a+variety+of+AI+models;Winner+of+multiple+awards)](https://github.com/seongjiko/seongjiko/assets/46768743/26fb765a-8cd5-4568-ab73-1e04fa39c411) <br>
-▲ It's got a lot more information about me.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=1000&pause=2000&color=000000&vCenter=true&random=true&width=550&lines=Experience+with+multiple+Vision+AI+domains;Experience+developing+LLM+services;Published+1+author+in+an+SCI-quality+journal;Experience+developing+a+variety+of+AI+models;Winner+of+multiple+awards)](https://sjko.notion.site/60407afad7c8492380b0d77902c75ad3?pvs=4) <br>
+## ▲ Click the text to go to your portfolio site.
 
 #### :link: E-mail & Blog:link:
 [![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakaotalk&logoColor=white&link=mailto:soc06202@kakao.com)](mailto:soc06202@kakao.com)
