@@ -7,19 +7,23 @@
 
 
 # About me
-## ▼ Click the text to go to my portfolio site.
+## 👇 Click the text to go to my portfolio site.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=1000&pause=2000&color=000000&vCenter=true&random=true&width=550&lines=Experience+with+multiple+Vision+AI+domains;Experience+developing+LLM+services;Published+1+author+in+an+SCI-quality+journal;Experience+developing+a+variety+of+AI+models;Winner+of+multiple+awards)](https://sjko.notion.site/60407afad7c8492380b0d77902c75ad3?pvs=4) <br>
-## ▲ 더욱 깔끔하고 자세한 포트폴리오 사이트입니다.
+## 👆 더욱 깔끔하고 자세한 포트폴리오 사이트입니다.
 
 #### :link: E-mail & Blog:link:
+Mail <br>
 [![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakaotalk&logoColor=white&link=mailto:soc06202@kakao.com)](mailto:soc06202@kakao.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:soc06202@naver.com)](mailto:soc06202@naver.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soc06202@gmail.com)](mailto:soc06202@gmail.com)
+
+Tech Blog <br>
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://sjkoding.tistory.com)](https://sjkoding.tistory.com/)
 
 # Library
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white">
+
+### Data Analysis
+Numpy, Pandas, Scikit-learn
 
 # Domain Overview
 
@@ -59,7 +63,7 @@
 ---
 
 # 🔎 More details 🔍
-`Hyperlinks are links to more detailed information about a topic.
+`Hyperlinks are links to more detailed information about a topic.`
 
 ## 📑 Published articles 📑
    
