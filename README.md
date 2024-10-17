@@ -78,6 +78,7 @@ Numpy, Pandas, Scikit-learn
 ## :trophy:Extracurricular Awards:trophy:
 | Award 	| Date                         	          | Task                  	| 
 |-------------	|---------------------------------   |-----------------------	|
+| 🏆 과학기술정보통신부 장관상(대상)      	| 2024.10    | [제 3회 ETRI 휴먼이해 인공지능 논문경진대회](sjkoding.tistory.com/95)    |
 | 🏆 과학기술정보통신부 장관상(대상)      	| 6학기    | [제 9회 대한민국 SW융합 해커톤 대회](https://github.com/seongjiko/DeepSeat_project)    |
 | 👍 장려상   |   6학기   |   [ACK 2022 학부생 논문 경진 대회](https://kiss.kstudy.com/Detail/Ar?key=3988536)
 | 👍 우수논문상   |    6학기    |    [2022 정보보호학회 동계학술대회(CISC-W’22)](https://drive.google.com/file/d/1mPGJASFDbxuyq_kr2o7Wz7Wdxmy5P2CE/view?usp=sharing)  |
@@ -88,7 +89,7 @@ Numpy, Pandas, Scikit-learn
 
 | Competition  | Subject                                                        | Task                   | Rank / Participants | Date     |
 |--------------|----------------------------------------------------------------|------------------------|---------------------|----------|
-| AI Factory        | [3rd ETRI Human Understanding AI Paper Competition](https://aifactory.space/task/2790/overview) | Time-Series            | 3rd / 41 teams      | 24/07    |
+| AI Factory        | [3rd ETRI Human Understanding AI Paper Competition](https://aifactory.space/task/2790/overview) | Time-Series            | 1st / 41 teams      | 24/07    |
 | Dacon        | [2023 SW-centered University AI Competition](https://github.com/seongjiko/Satellite_AI_competition) | Vision (Segmentation)  | 6th / 201 teams     | 23/08    |
 | Dacon        | Wallpaper Defect Classification AI Competition                 | Vision (Classifier)    | 41st / 1,025 teams  | 23/05    |
 | Dacon        | 4D Block Structure Extraction AI Competition                   | Vision (Segmentation)  | 85th / 461 teams    | 23/01    |
