@@ -4,13 +4,6 @@
 
 **I'm currently working as an LLM Engineer focusing on building private LLMs using SLM, developing Retrieval-Augmented Generation (RAG) logic, and creating various chatbot services primarily with LangChain.**
 
-#### :link: E-mail & Blog:link:
-Mail <br>
-[![Kakao Badge](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakaotalk&logoColor=white&link=mailto:soc06202@kakao.com)](mailto:soc06202@kakao.com)
-
-Tech Blog <br>
-[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://sjkoding.tistory.com)](https://sjkoding.tistory.com/)
-
 # 🔎 Simple Achievemets. 🔍
 `Hyperlinks are links to more detailed information about a topic.`
 
