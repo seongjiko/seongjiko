@@ -1,16 +1,8 @@
-
-   <!-- 1,14,15,18,19,20,25,27,28 -->
-
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongjiko&count_bg=%23B9D7ED&title_bg=%235C6BC0&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=230&section=header&text=SEONGJI-KO&animation=scaleIn&fontSize=90&fontAlignY=38&desc=Thank%20you%20for%20visiting%20my%20GitHub.&descAlignY=57&descAlign=62) </br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=230&section=header&text=SEONGJI-KO&animation=scaleIn&fontSize=90&fontAlignY=38&desc=Hello!%20%20I'm%20AI(LLM|Vision)%20Enginner%20Junior.%20%20updated%2024.12.20&descAlignY=57&descAlign=62) </br>
 
-
-# About me
-## 👇 Click the text to go to my portfolio site.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=1000&pause=2000&color=000000&vCenter=true&random=true&width=550&lines=Experience+with+multiple+Vision+AI+domains;Experience+developing+LLM+services;Published+1+author+in+an+SCI-quality+journal;Experience+developing+a+variety+of+AI+models;Winner+of+multiple+awards)](https://sjko.notion.site/60407afad7c8492380b0d77902c75ad3?pvs=4) <br>
-## 👆 더욱 깔끔하고 자세한 포트폴리오 사이트입니다.
+**I'm currently working as an LLM Engineer focusing on building private LLMs using SLM, developing Retrieval-Augmented Generation (RAG) logic, and creating various chatbot services primarily with LangChain.**
 
 #### :link: E-mail & Blog:link:
 Mail <br>
@@ -19,56 +11,19 @@ Mail <br>
 Tech Blog <br>
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://sjkoding.tistory.com)](https://sjkoding.tistory.com/)
 
-# Library
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white">
-
-### Data Analysis
-Numpy, Pandas, Scikit-learn
-
-# Domain Overview
-
----
-
-### **Vision AI**
-- **Video Multi-task Learning**
-- **Image Multi-task Learning**
-- **Object Detection**
-- **Semantic Segmentation**
-- **OCR (Optical Character Recognition)**
-
----
-
-### **Large Language Models (LLM)** (In progress)
-- **Private-LLM**
-- **sLLM**
-- **Instruction Tuning**
-  - Full-parameter fine tuning
-  - LoRA (Low-Rank Adaptation) fine tuning
-- **Prompt Tuning**
-- **Model Compression**
-  - GGUF (Generalized Gibbs Updates Framework)
-  - Quantization
-- **Function-Calling**
-- **Chat-Bot**
-- **RAG (Retrieval-Augmented Generation)**
-- **NER (Named Entity Recognition)**
-
----
-
-### **Time-Series**
-- **IoT Time Series Data Processing** (In progress)
-- **Video Time Series Analysis**
-- **IDS (Intrusion Detection System)**
-
----
-
-# 🔎 More details 🔍
+# 🔎 Simple Achievemets. 🔍
 `Hyperlinks are links to more detailed information about a topic.`
+
+## 🙂LLM Project (2024.03 ~ Current, AI R&D Researcher)🙂
+- Developed an LLM-based issue monitoring and analysis solution for semiconductor manufacturing, leveraging SFT-based LoRA fine-tuning, RAG (with BM25 and BGE-m3 rerank), prompt techniques, and lightweight 4B-scale models.
+- Created a patent-focused LLM chatbot service integrating KIPRIS API and a fine-tuned sroberta-based embedding model, enabling efficient patent retrieval, similarity analysis, and data visualization.
+- Implemented a private LLM chatbot in a QMS environment featuring report automation, email dispatch, file summarization, and domain-specific NER, utilizing LangChain, RAG, and LoRA fine-tuning for enhanced performance and accuracy.
 
 ## 📑 Published articles 📑
    
 | conference & journals 	| Date                   | Title                  	| authors
 |-------------	|---------------------------------   |-----------------------	|--------------------
+| The 15th International Conference on ICT Convergence(ICTC 2024) | 2024.08 | [PixleepFlow: A Pixel-Based Lifelog Framework for Predicting Sleep Quality and Stress Level](https://ictc.org/media?key=site/ictc2024/abs/P3-8.pdf) | Y. Na et al. (Equally contributed all authors)
 | Expert System with Application(ESWA)(IF: 8.5) | 2023.10    | [Harnessing Optical Flow in Deep Learning Framework for Cardiopulmonary Resuscitation Training](https://doi.org/10.1016/j.eswa.2023.121775)   | S. Ko et al. (correspond: Choung Ah Lee, Jong-Uk Hou)
 | 한국정보보호학회 (CISC-W’22)   |   2022.11   | [CAN 프레임 간격 기반 침입 탐지 방법론](https://drive.google.com/file/d/1mPGJASFDbxuyq_kr2o7Wz7Wdxmy5P2CE/view?usp=sharing) | S. Ko et al. (correspond: Byung Il Kwak)
 | 한국정보처리학회 (ACK 2022)  |   2022.10   | [신뢰할 수 있는 딥러닝 기반 단일 캠 좌석현황 실시간 탐지 솔루션](https://kiss.kstudy.com/Detail/Ar?key=3988536) | S. Ko et al. (correspond: Jong-Uk Hou)
@@ -80,13 +35,13 @@ Numpy, Pandas, Scikit-learn
 |-------------	|---------------------------------   |-----------------------	|
 | 🏆 과학기술정보통신부 장관상(대상)      	| 2024.10    | [제 3회 ETRI 휴먼이해 인공지능 논문경진대회](sjkoding.tistory.com/95)    |
 | 🏆 과학기술정보통신부 장관상(대상)      	| 6학기    | [제 9회 대한민국 SW융합 해커톤 대회](https://github.com/seongjiko/DeepSeat_project)    |
-| 👍 장려상   |   6학기   |   [ACK 2022 학부생 논문 경진 대회](https://kiss.kstudy.com/Detail/Ar?key=3988536)
+| 🥉 SW중심대학협의회장상   |   7학기   |   [SW중심대학 공동 AI 경진대회 2023](https://github.com/seongjiko/Satellite_AI_competition)   |
+| 👍 SW중심대학협의회장상   |   6학기   |   [SW중심대학 공동 AI 경진대회 2022](https://github.com/seongjiko/customocr)   |
 | 👍 우수논문상   |    6학기    |    [2022 정보보호학회 동계학술대회(CISC-W’22)](https://drive.google.com/file/d/1mPGJASFDbxuyq_kr2o7Wz7Wdxmy5P2CE/view?usp=sharing)  |
-| 👍 SW중심대학협의회장상(4등)   |   6학기   |   [SW중심대학 공동 AI 경진대회 2022](https://github.com/seongjiko/customocr)   |
-| 🥉 SW중심대학협의회장상(3등)   |   7학기   |   [SW중심대학 공동 AI 경진대회 2023](https://github.com/seongjiko/Satellite_AI_competition)   |
+| 👍 장려상   |   6학기   |   [ACK 2022 학부생 논문 경진 대회](https://kiss.kstudy.com/Detail/Ar?key=3988536)
+
 
 ## 🤖 AI Competition History 🤖
-
 | Competition  | Subject                                                        | Task                   | Rank / Participants | Date     |
 |--------------|----------------------------------------------------------------|------------------------|---------------------|----------|
 | AI Factory        | [3rd ETRI Human Understanding AI Paper Competition](https://aifactory.space/task/2790/overview) | Time-Series            | 1st / 41 teams      | 24/07    |
@@ -100,7 +55,7 @@ Numpy, Pandas, Scikit-learn
 | Dacon (basic)| Movie Review Sentiment Analysis Competition                    | NLP                    | 39th / 605 people   | -        |
 | Dacon (basic)| [Penguin Weight Prediction Competition](https://sjkoding.tistory.com/7) | Tabular                | 26th / 725 people   | 22/01    |
 
-
+<!--
 ### Hallym University Intramural Awards
    
 | Award 	| Date                         	          | Task                  	| 
@@ -118,7 +73,7 @@ Numpy, Pandas, Scikit-learn
 🥇대상 1위 | 4학기 | 교내 소프트웨어 융합대학 학술 콘테스트(서공제) 개인 부문
 🥈은상 2위 | 4학기 | 교내 SW사업단 주최 제 1회 SW 교육영상 공모전
 🥇인기상 1위 | 2학기 | 교내 코딩 학술 동아리 씨애랑 2018년도 SW전시회 출품
-   
+--!>
 
 
 
@@ -159,6 +114,7 @@ Numpy, Pandas, Scikit-learn
 |   학생회 🏫  |   2022   |   제 4대 소프트웨어융합대학 학생회 'A:BLE'   |   홍보국장   |
 -->
 
+<!--
 ## 🏫 Core training 🏫
 
 | Institution  	| Date                         	          | Detail                  	|   Subject   |
@@ -169,3 +125,4 @@ Numpy, Pandas, Scikit-learn
 
 ## 👨‍🎓 Certifications 👨‍🎓
 SQLD, ADsP, AICE Associate
+--!>
