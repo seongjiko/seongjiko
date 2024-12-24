@@ -8,9 +8,9 @@
 `Hyperlinks are links to more detailed information about a topic.`
 
 ## 🙂LLM Project (2024.03 ~ Current, AI R&D Researcher)🙂
-- Developed an LLM-based issue monitoring and analysis solution for semiconductor manufacturing, leveraging SFT-based LoRA fine-tuning, RAG (with BM25 and BGE-m3 rerank), prompt techniques, and lightweight 4B-scale models.
-- Created a patent-focused LLM chatbot service integrating KIPRIS API and a fine-tuned sroberta-based embedding model, enabling efficient patent retrieval, similarity analysis, and data visualization.
-- Implemented a private LLM chatbot in a QMS environment featuring report automation, email dispatch, file summarization, and domain-specific NER, utilizing LangChain, RAG, and LoRA fine-tuning for enhanced performance and accuracy.
+- Developed AI-powered solutions for industry-specific applications, integrating advanced natural language processing techniques and private LLMs.
+- Created specialized chatbot services incorporating fine-tuned models, retrieval mechanisms, and custom embeddings for efficient information management.
+- Designed domain-adapted AI systems for automation, knowledge retrieval, and data analysis to enhance operational workflows.
 
 ## 📑 Published articles 📑
    
